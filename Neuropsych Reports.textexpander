@@ -13,6 +13,130 @@
 	<array>
 		<dict>
 			<key>abbreviation</key>
+			<string>,nl</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-11-10T22:41:03Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Neuropsychological</string>
+			<key>lastUsed</key>
+			<date>2012-12-05T03:12:37Z</date>
+			<key>modificationDate</key>
+			<date>2012-11-10T22:42:07Z</date>
+			<key>plainText</key>
+			<string>neuropsychological</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>C10DC7A0-26FF-48A9-81BB-8A06FD2083A9</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,exm</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-11-01T19:09:12Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>examinees</string>
+			<key>lastUsed</key>
+			<date>2012-11-01T19:46:49Z</date>
+			<key>modificationDate</key>
+			<date>2012-11-01T19:09:12Z</date>
+			<key>plainText</key>
+			<string>examinees</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>7</integer>
+			<key>uuidString</key>
+			<string>C8D538C7-E252-4163-8833-DAAAD85E9EDE</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>waisiv</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-10-31T19:48:37Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>WAIS-IV</string>
+			<key>lastUsed</key>
+			<date>2012-10-31T19:49:24Z</date>
+			<key>modificationDate</key>
+			<date>2012-10-31T19:49:13Z</date>
+			<key>plainText</key>
+			<string>Wechsler Adult Intelligence Scale – IV (WAIS – IV)</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>5612E2B5-E9AE-4B99-8551-759BEE34AB89</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,np</string>
+			<key>abbreviationMode</key>
+			<integer>2</integer>
+			<key>creationDate</key>
+			<date>2012-10-30T15:54:57Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Neuropsychology</string>
+			<key>lastUsed</key>
+			<date>2012-12-05T03:12:41Z</date>
+			<key>modificationDate</key>
+			<date>2012-10-30T15:55:17Z</date>
+			<key>plainText</key>
+			<string>neuropsychology</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>25</integer>
+			<key>uuidString</key>
+			<string>13074B9B-472F-4888-8A71-311DCA81C31A</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,result</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-10-05T15:54:48Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Results</string>
+			<key>modificationDate</key>
+			<date>2012-10-05T15:55:00Z</date>
+			<key>plainText</key>
+			<string>The patient's premorbid intellectual functioning was derived from a combination of demographic information and %fill:his/her% performance on the TOPF, and was estimated to be in the %fill:TOPF% range. Current intellectual abilities were measured by the WAIS-IV. %| 
+
+The patient's memory was assessed with the WMS-IV. 
+
+Executive functioning abilities were measured with the DKEFS. 
+
+The patient's sensorimotor abilities were measured using select tests from the HRNB. </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>2B0CB79A-5A52-4564-BE3D-4BA241C5FEA6</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
 			<string>adhd</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
@@ -95,7 +219,7 @@
 			<key>label</key>
 			<string>Approximately</string>
 			<key>lastUsed</key>
-			<date>2012-10-02T18:21:29Z</date>
+			<date>2012-10-23T13:17:37Z</date>
 			<key>modificationDate</key>
 			<date>2012-09-27T14:02:37Z</date>
 			<key>plainText</key>
@@ -103,7 +227,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>6</integer>
+			<integer>8</integer>
 			<key>uuidString</key>
 			<string>85D85217-E196-4963-BDA3-ED0EA4CC24F8</string>
 		</dict>
@@ -119,7 +243,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-10-02T16:15:41Z</date>
+			<date>2012-11-09T20:29:33Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-30T16:41:45Z</date>
 			<key>plainText</key>
@@ -127,7 +251,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>28</integer>
+			<integer>29</integer>
 			<key>uuidString</key>
 			<string>95B5061F-7CDA-440E-8646-E595DB6643E0</string>
 		</dict>
@@ -143,7 +267,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-09-14T18:44:10Z</date>
+			<date>2012-11-10T23:15:32Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T14:34:33Z</date>
 			<key>plainText</key>
@@ -151,7 +275,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>4</integer>
+			<integer>10</integer>
 			<key>uuidString</key>
 			<string>BFC1FC62-FC87-4DB9-B63B-A65BEDFE4CB4</string>
 		</dict>
@@ -191,7 +315,7 @@
 			<key>label</key>
 			<string>Capacity 1</string>
 			<key>lastUsed</key>
-			<date>2012-08-13T19:37:27Z</date>
+			<date>2012-10-23T01:35:39Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-13T19:37:06Z</date>
 			<key>plainText</key>
@@ -199,7 +323,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
 			<string>E9C3B074-AED9-436B-9E6C-5AEFD90E6199</string>
 		</dict>
@@ -214,6 +338,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string>Capacity 2</string>
+			<key>lastUsed</key>
+			<date>2012-10-22T17:16:59Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-25T05:52:08Z</date>
 			<key>plainText</key>
@@ -221,7 +347,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>uuidString</key>
 			<string>36D08D31-F103-40CD-840D-2960879C7871</string>
 		</dict>
@@ -237,7 +363,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-08-20T15:10:25Z</date>
+			<date>2012-10-22T16:45:23Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T14:09:20Z</date>
 			<key>plainText</key>
@@ -245,7 +371,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>7</integer>
+			<integer>9</integer>
 			<key>uuidString</key>
 			<string>F7608098-B26C-41E3-8BED-DA928A7B6CEB</string>
 		</dict>
@@ -284,6 +410,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string>COPD</string>
+			<key>lastUsed</key>
+			<date>2012-10-10T20:31:37Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-06T19:25:26Z</date>
 			<key>plainText</key>
@@ -291,7 +419,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>uuidString</key>
 			<string>CF9A8143-FB0C-4699-8A46-9F90F9CC4998</string>
 		</dict>
@@ -331,7 +459,7 @@
 			<key>label</key>
 			<string>Diabetes Mellitus</string>
 			<key>lastUsed</key>
-			<date>2012-09-14T16:15:33Z</date>
+			<date>2012-10-22T17:58:55Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-29T14:55:01Z</date>
 			<key>plainText</key>
@@ -339,7 +467,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>4</integer>
+			<integer>5</integer>
 			<key>uuidString</key>
 			<string>7DE3FAB1-E0E1-4187-9841-0457965AE955</string>
 		</dict>
@@ -355,7 +483,7 @@
 			<key>label</key>
 			<string>diagnosis</string>
 			<key>lastUsed</key>
-			<date>2012-09-27T14:52:07Z</date>
+			<date>2012-12-07T13:37:20Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T20:45:29Z</date>
 			<key>plainText</key>
@@ -363,7 +491,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>11</integer>
+			<integer>13</integer>
 			<key>uuidString</key>
 			<string>FEDB959D-37E7-4859-A2C7-7416091C6BDD</string>
 		</dict>
@@ -401,7 +529,7 @@
 			<key>label</key>
 			<string>DPOA</string>
 			<key>lastUsed</key>
-			<date>2012-08-13T20:05:07Z</date>
+			<date>2012-10-23T00:30:07Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-30T18:41:14Z</date>
 			<key>plainText</key>
@@ -409,7 +537,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>5</integer>
 			<key>uuidString</key>
 			<string>2AA75063-96D1-44ED-98DE-F5E98D231899</string>
 		</dict>
@@ -425,7 +553,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-09-18T18:08:14Z</date>
+			<date>2012-10-30T15:36:28Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-30T16:35:25Z</date>
 			<key>plainText</key>
@@ -433,7 +561,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>24</integer>
+			<integer>26</integer>
 			<key>uuidString</key>
 			<string>33F3F6C7-C8F8-4FE7-9F00-D5E066E6B418</string>
 		</dict>
@@ -449,7 +577,7 @@
 			<key>label</key>
 			<string>Full Adult Battery</string>
 			<key>lastUsed</key>
-			<date>2012-08-27T13:18:46Z</date>
+			<date>2012-12-06T19:26:57Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-06T13:51:11Z</date>
 			<key>plainText</key>
@@ -457,7 +585,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>9</integer>
+			<integer>10</integer>
 			<key>uuidString</key>
 			<string>E07FECEA-62A9-40E6-B3E5-2A19DDB5FABB</string>
 		</dict>
@@ -495,7 +623,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-09-27T14:51:08Z</date>
+			<date>2012-12-07T13:31:38Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T14:42:51Z</date>
 			<key>plainText</key>
@@ -503,7 +631,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>37</integer>
+			<integer>56</integer>
 			<key>uuidString</key>
 			<string>7DB90D60-3CC4-48A9-BC48-7CA5D27DCC3E</string>
 		</dict>
@@ -591,7 +719,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-09-14T16:14:42Z</date>
+			<date>2012-10-22T17:58:21Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T14:11:25Z</date>
 			<key>plainText</key>
@@ -599,7 +727,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>8</integer>
+			<integer>10</integer>
 			<key>uuidString</key>
 			<string>B3C25672-E9AB-400D-BF5E-393CE80079BE</string>
 		</dict>
@@ -709,7 +837,7 @@
 			<key>label</key>
 			<string>medical</string>
 			<key>lastUsed</key>
-			<date>2012-09-24T17:56:41Z</date>
+			<date>2012-12-07T13:21:37Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-06T15:08:27Z</date>
 			<key>plainText</key>
@@ -717,7 +845,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>15</integer>
+			<integer>20</integer>
 			<key>uuidString</key>
 			<string>6FEC9354-5579-494A-9FC3-C48888B1A77E</string>
 		</dict>
@@ -733,7 +861,7 @@
 			<key>label</key>
 			<string>Medical History</string>
 			<key>lastUsed</key>
-			<date>2012-09-27T14:50:48Z</date>
+			<date>2012-10-22T17:58:15Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-29T14:41:17Z</date>
 			<key>plainText</key>
@@ -741,7 +869,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>4</integer>
+			<integer>6</integer>
 			<key>uuidString</key>
 			<string>548257E4-D60B-4601-9270-1BD87B452E1A</string>
 		</dict>
@@ -781,15 +909,15 @@
 			<key>label</key>
 			<string>Mental Status Outpatient</string>
 			<key>lastUsed</key>
-			<date>2012-09-24T18:57:41Z</date>
+			<date>2012-10-22T16:52:15Z</date>
 			<key>modificationDate</key>
-			<date>2012-08-06T21:03:22Z</date>
+			<date>2012-10-10T14:23:54Z</date>
 			<key>plainText</key>
-			<string>The patient arrived on time to the initial appointment. %fill:Gender% was %fill:dressed quality% and was %fill:grooming%. %fill:Gender% was %fill:unable% to clearly articulate the reason for this evaluation. The patient %fill:was un/able% to report %fill:personal and medical% history. Insight was %fill:qualify%. Thought processes were %fill:processes%. Expressive speech was of normal %fill:tone, rate, prosody, volume%. The patient %fill:was/not% able to comprehend interview questions %fill:with/out% repetition. Affect was %fill:affect% with %fill:mood% mood. </string>
+			<string>%fill:Gender% was %fill:dressed quality% and was %fill:grooming%. %fill:Gender% was %fill:unable% to clearly articulate the reason for this evaluation. The patient %fill:was un/able% to report %fill:personal and medical% history. Insight was %fill:qualify%. Thought processes were %fill:processes%. Expressive speech was of normal %fill:tone, rate, prosody, volume%. The patient %fill:was/not% able to comprehend interview questions %fill:with/out% repetition. Affect was %fill:affect% with %fill:mood% mood. </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>14</integer>
+			<integer>15</integer>
 			<key>uuidString</key>
 			<string>D997A670-D8A9-4F3A-85F5-454A956D9BC7</string>
 		</dict>
@@ -882,7 +1010,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>noted</string>
 			<key>lastUsed</key>
-			<date>2012-10-02T18:01:53Z</date>
+			<date>2012-11-02T19:23:01Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T13:45:33Z</date>
 			<key>plainText</key>
@@ -890,7 +1018,7 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>13</integer>
+			<integer>14</integer>
 			<key>uuidString</key>
 			<string>833BF66E-2719-41CB-80D1-D6BD81A67216</string>
 		</dict>
@@ -906,7 +1034,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-10-02T18:28:39Z</date>
+			<date>2012-12-05T02:54:44Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T14:07:29Z</date>
 			<key>plainText</key>
@@ -914,7 +1042,7 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>83</integer>
+			<integer>91</integer>
 			<key>uuidString</key>
 			<string>DCDC8438-7D10-469D-973E-FB6188977F6B</string>
 		</dict>
@@ -930,7 +1058,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-10-02T17:01:27Z</date>
+			<date>2012-11-02T19:14:01Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T14:08:30Z</date>
 			<key>plainText</key>
@@ -938,7 +1066,7 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>91</integer>
+			<integer>101</integer>
 			<key>uuidString</key>
 			<string>90C1C847-142A-4E22-BE71-9D53FE39DACD</string>
 		</dict>
@@ -978,7 +1106,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-10-02T17:01:31Z</date>
+			<date>2012-12-05T19:20:14Z</date>
 			<key>modificationDate</key>
 			<date>2012-09-27T21:00:49Z</date>
 			<key>plainText</key>
@@ -986,7 +1114,7 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>21</integer>
+			<integer>30</integer>
 			<key>uuidString</key>
 			<string>D1362840-8930-4574-BEAF-97EB7291E9B9</string>
 		</dict>
@@ -1026,7 +1154,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>Poor hist</string>
 			<key>lastUsed</key>
-			<date>2012-08-13T19:55:59Z</date>
+			<date>2012-10-22T16:48:07Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-25T05:49:27Z</date>
 			<key>plainText</key>
@@ -1034,7 +1162,7 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>uuidString</key>
 			<string>8C956B72-DFB0-468A-BCF2-CE719F01D29D</string>
 		</dict>
@@ -1074,33 +1202,15 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>Psychiatric</string>
 			<key>lastUsed</key>
-			<date>2012-09-27T14:50:34Z</date>
+			<date>2012-12-07T13:40:45Z</date>
 			<key>modificationDate</key>
-			<date>2012-08-06T19:27:09Z</date>
+			<date>2012-10-05T15:54:34Z</date>
 			<key>plainText</key>
-			<string>The patient's premorbid intellectual functioning was derived from a combination of demographic information and %fill:his/her% performance on the TOPF, and was estimated to be in the %fill:TOPF% range. Current intellectual abilities were measured by the WAIS-IV. %| 
-
-The patient's memory was assessed with the WMS-IV. 
-
-Executive functioning abilities were measured with the DKEFS. 
-
-The patient's sensorimotor abilities were measured using select tests from the HRNB. </string>
-			<key>richText</key>
-			<data>
-			BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISE
-			GU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1
-			dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0
-			cmluZwGEhAhOU1N0cmluZwGWhAErC3BzeWNoaWF0cmljhoQCaUkB
-			C5KEhIQMTlNEaWN0aW9uYXJ5AJaEAWkCkoSZmQZOU0ZvbnSGkoSE
-			hAZOU0ZvbnQelpwkhAVbMzZjXQYAAAAaAAAA//5MAHUAYwBpAGQA
-			YQBHAHIAYQBuAGQAZQAAAIQBZgyEAWMAoAGgAKAAhpKEmZkHTlND
-			b2xvcoaShISEB05TQ29sb3IAlqAGhANAQECEmZkGU3lzdGVthoSZ
-			mRBjb250cm9sVGV4dENvbG9yhoShoAOEAmZmAAGGhoaG
-			</data>
+			<string>psychiatric</string>
 			<key>snippetType</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>useCount</key>
-			<integer>7</integer>
+			<integer>14</integer>
 			<key>uuidString</key>
 			<string>61EE1AA2-AC52-4607-A1E3-7953B9785472</string>
 		</dict>
@@ -1210,7 +1320,7 @@ Thank you for involving us in the care of this patient.</string>
 			<key>label</key>
 			<string>reported</string>
 			<key>lastUsed</key>
-			<date>2012-10-02T20:23:33Z</date>
+			<date>2012-12-04T19:50:43Z</date>
 			<key>modificationDate</key>
 			<date>2012-09-27T14:27:43Z</date>
 			<key>plainText</key>
@@ -1218,7 +1328,7 @@ Thank you for involving us in the care of this patient.</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>43</integer>
+			<integer>51</integer>
 			<key>uuidString</key>
 			<string>10D326D3-5EAE-4B5F-B55C-535B035D959D</string>
 		</dict>
@@ -1234,7 +1344,7 @@ Thank you for involving us in the care of this patient.</string>
 			<key>label</key>
 			<string>stated</string>
 			<key>lastUsed</key>
-			<date>2012-09-27T14:55:46Z</date>
+			<date>2012-12-07T03:54:21Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T13:57:24Z</date>
 			<key>plainText</key>
@@ -1242,7 +1352,7 @@ Thank you for involving us in the care of this patient.</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>44</integer>
+			<integer>58</integer>
 			<key>uuidString</key>
 			<string>00782C06-50D6-40AF-AEB3-6AEB5620BD7E</string>
 		</dict>
@@ -1312,7 +1422,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>label</key>
 			<string>treatment</string>
 			<key>lastUsed</key>
-			<date>2012-09-24T18:05:54Z</date>
+			<date>2012-12-07T03:35:03Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-30T18:53:21Z</date>
 			<key>plainText</key>
@@ -1320,7 +1430,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>17</integer>
+			<integer>27</integer>
 			<key>uuidString</key>
 			<string>4AB19C06-A77B-41CD-950C-76D56D4B2665</string>
 		</dict>
@@ -1360,7 +1470,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>label</key>
 			<string>WASI-II</string>
 			<key>lastUsed</key>
-			<date>2012-10-02T17:00:02Z</date>
+			<date>2012-10-31T19:49:52Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T21:06:06Z</date>
 			<key>plainText</key>
@@ -1368,7 +1478,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>3</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
 			<string>4AA60DD9-E207-4847-B86D-B011F48ABECE</string>
 		</dict>
@@ -1384,7 +1494,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>label</key>
 			<string>WMS-IV</string>
 			<key>lastUsed</key>
-			<date>2012-10-02T16:59:41Z</date>
+			<date>2012-10-31T19:48:04Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T21:05:49Z</date>
 			<key>plainText</key>
@@ -1392,7 +1502,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>4</integer>
+			<integer>5</integer>
 			<key>uuidString</key>
 			<string>999820BA-4267-403E-8DBA-58C8F4E9CC62</string>
 		</dict>
