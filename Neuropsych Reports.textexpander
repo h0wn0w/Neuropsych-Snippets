@@ -13,6 +13,98 @@
 	<array>
 		<dict>
 			<key>abbreviation</key>
+			<string>defef</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-07-15T13:33:48Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Definition Executive Functioning</string>
+			<key>lastUsed</key>
+			<date>2013-07-15T13:34:23Z</date>
+			<key>modificationDate</key>
+			<date>2013-07-15T13:33:48Z</date>
+			<key>plainText</key>
+			<string>Executive functioning skills are those skills which allow an individual to take information and act upon it in an organized and goal-oriented manner. This can include abilities such as developing a plan, identifying a correct sequence of events, and inhibiting the urge to do or say something. </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>5DCD2012-0A84-4404-9E43-47E1DAFE0E77</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>ccnurse</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-07-15T13:27:30Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Care nursing</string>
+			<key>lastUsed</key>
+			<date>2013-07-18T18:51:58Z</date>
+			<key>modificationDate</key>
+			<date>2013-07-17T20:35:35Z</date>
+			<key>plainText</key>
+			<string>The patient lacks insight into %fillpopup:name=genderposs:his:her% cognitive deficits, and is unable to adequately care for %fillpopup:name=gender self:himself:herself%. We recommend placement in %fillpopup:name=level of care:an assisted living center:a skilled nursing center:a nursing home%, where %fillpopup:name=gender:he:she% can receive help with %fillpart:name=some needs:default=yes%self and healthcare needs including: %filltext:name=needs.% %fillpartend%%fillpart:name=all needs:default=no%all self and healthcare needs.%fillpartend% %fillpart:name=24 hours:default=no%This assistance should be available 24 hours a day.%fillpartend%</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>10</integer>
+			<key>uuidString</key>
+			<string>7AF366FF-5F22-49FC-BDC7-6D2A7FA2F107</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>ccha</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-07-15T13:23:58Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Care home assistance</string>
+			<key>modificationDate</key>
+			<date>2013-07-15T13:28:12Z</date>
+			<key>plainText</key>
+			<string>At this time the patient requires assistance to help manage some of %fillpopup:name=gender:his:her% ADL and IADL. Specifically, the patient requires assistance with %filltext:name=needs%. To Further %fillpopup:name=gender:his:her% care, we recommend that the patient %fillpopup:name=agent:appoint:execute% %fillpopup:name=gender:his:her% Durable Power of Attorney at this time.</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>0B0EAC5A-CC3D-4778-9449-4756CE0739B2</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>ccwm</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-07-15T13:09:01Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Care Well managed</string>
+			<key>modificationDate</key>
+			<date>2013-07-15T13:27:25Z</date>
+			<key>plainText</key>
+			<string>At this time, the patient's ADL and IADL appear to be well managed %filltext:name=by entity%. To further %fillpopup:name=gender:his:her% care, we recommend that the patient appoint a Durable Power of Attorney at this time.</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>67480878-A4DF-4805-AC25-90A8F0D73A67</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
 			<string>adhd</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
@@ -23,7 +115,7 @@
 			<key>label</key>
 			<string>ADHD</string>
 			<key>lastUsed</key>
-			<date>2012-08-22T14:08:38Z</date>
+			<date>2013-05-03T15:07:54Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T20:44:39Z</date>
 			<key>plainText</key>
@@ -31,7 +123,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>1</integer>
+			<integer>3</integer>
 			<key>uuidString</key>
 			<string>334787DA-155E-4A18-B2BA-EDAEDEC99D08</string>
 		</dict>
@@ -47,15 +139,15 @@
 			<key>label</key>
 			<string>ADL</string>
 			<key>lastUsed</key>
-			<date>2012-09-24T15:51:32Z</date>
+			<date>2013-07-15T13:17:08Z</date>
 			<key>modificationDate</key>
-			<date>2012-09-18T18:38:33Z</date>
+			<date>2013-04-19T21:04:34Z</date>
 			<key>plainText</key>
-			<string>activities of daily living</string>
+			<string>Activities of Daily Living</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>4</integer>
+			<integer>8</integer>
 			<key>uuidString</key>
 			<string>0ED7FCE4-29AF-43E3-8085-EF7CC3D0FC22</string>
 		</dict>
@@ -70,6 +162,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string>Afr. American</string>
+			<key>lastUsed</key>
+			<date>2013-07-02T18:51:41Z</date>
 			<key>modificationDate</key>
 			<date>2012-12-08T04:47:48Z</date>
 			<key>plainText</key>
@@ -77,13 +171,13 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>6</integer>
 			<key>uuidString</key>
 			<string>8CAB49E4-94EF-4471-ABF5-C78F33D3F534</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`dat</string>
+			<string>,dat</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -93,15 +187,15 @@
 			<key>label</key>
 			<string>Alzheimer's</string>
 			<key>lastUsed</key>
-			<date>2012-09-24T15:55:33Z</date>
+			<date>2013-07-18T19:39:58Z</date>
 			<key>modificationDate</key>
-			<date>2012-07-31T20:51:30Z</date>
+			<date>2013-01-21T20:13:59Z</date>
 			<key>plainText</key>
 			<string>Dementia of the Alzheimer's Type</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>14</integer>
 			<key>uuidString</key>
 			<string>833915EB-8517-49D2-88FC-B58CF089E399</string>
 		</dict>
@@ -117,7 +211,7 @@
 			<key>label</key>
 			<string>Approximately</string>
 			<key>lastUsed</key>
-			<date>2012-12-12T15:25:45Z</date>
+			<date>2013-06-28T13:35:03Z</date>
 			<key>modificationDate</key>
 			<date>2012-09-27T14:02:37Z</date>
 			<key>plainText</key>
@@ -125,13 +219,13 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>9</integer>
+			<integer>41</integer>
 			<key>uuidString</key>
 			<string>85D85217-E196-4963-BDA3-ED0EA4CC24F8</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`avg</string>
+			<string>aavg</string>
 			<key>abbreviationMode</key>
 			<integer>2</integer>
 			<key>creationDate</key>
@@ -141,15 +235,15 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-11-09T20:29:33Z</date>
+			<date>2013-06-13T13:30:15Z</date>
 			<key>modificationDate</key>
-			<date>2012-07-30T16:41:45Z</date>
+			<date>2013-01-21T20:14:05Z</date>
 			<key>plainText</key>
 			<string>Average</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>29</integer>
+			<integer>45</integer>
 			<key>uuidString</key>
 			<string>95B5061F-7CDA-440E-8646-E595DB6643E0</string>
 		</dict>
@@ -165,7 +259,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-12-11T19:59:17Z</date>
+			<date>2013-07-17T15:33:15Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T14:34:33Z</date>
 			<key>plainText</key>
@@ -173,13 +267,13 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>13</integer>
+			<integer>66</integer>
 			<key>uuidString</key>
 			<string>BFC1FC62-FC87-4DB9-B63B-A65BEDFE4CB4</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`cabg</string>
+			<string>cabg</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -191,7 +285,7 @@
 			<key>lastUsed</key>
 			<date>2012-09-27T14:50:56Z</date>
 			<key>modificationDate</key>
-			<date>2012-08-29T14:39:11Z</date>
+			<date>2013-01-21T20:14:15Z</date>
 			<key>plainText</key>
 			<string>coronary artery bypass graft (CABG)</string>
 			<key>snippetType</key>
@@ -203,7 +297,31 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`cp1</string>
+			<string>,Nl</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-03-07T02:21:04Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Cap Neuropsychological</string>
+			<key>lastUsed</key>
+			<date>2013-06-28T13:17:40Z</date>
+			<key>modificationDate</key>
+			<date>2013-03-07T02:21:28Z</date>
+			<key>plainText</key>
+			<string>Neuropsychological</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>17</integer>
+			<key>uuidString</key>
+			<string>4A296101-81F1-4B45-A380-93A160EEF768</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,cp1</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -213,21 +331,21 @@
 			<key>label</key>
 			<string>Capacity 1</string>
 			<key>lastUsed</key>
-			<date>2012-10-23T01:35:39Z</date>
+			<date>2013-07-15T13:03:45Z</date>
 			<key>modificationDate</key>
-			<date>2012-08-13T19:37:06Z</date>
+			<date>2013-06-18T20:08:17Z</date>
 			<key>plainText</key>
-			<string>The patient %fill:lacks/retains% the capacity to make reasoned decisions regarding %fill:his/her% healthcare, finances, and estate planning. Additionally, the patient does not have the capacity to understand %fill:his/her%  needs, state them, or have them met. </string>
+			<string>The patient %fill:lacks/retains% the capacity to manage %fill:his/her% day-to-day affairs and %fill:lacks/retains% the capacity to make reasoned decisions regarding %fill:his/her% healthcare, finances, and estate planning. Additionally, the patient does not have the capacity to understand %fill:his/her% needs, state them, or have them met. We recommend that the patient’s Durable Power of Attorney be enacted at this time.</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>4</integer>
+			<integer>16</integer>
 			<key>uuidString</key>
 			<string>E9C3B074-AED9-436B-9E6C-5AEFD90E6199</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`cp2</string>
+			<string>,cp2</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -237,17 +355,41 @@
 			<key>label</key>
 			<string>Capacity 2</string>
 			<key>lastUsed</key>
-			<date>2012-10-22T17:16:59Z</date>
+			<date>2013-06-07T16:03:50Z</date>
 			<key>modificationDate</key>
-			<date>2012-08-25T05:52:08Z</date>
+			<date>2013-07-15T13:07:48Z</date>
 			<key>plainText</key>
-			<string>The patient %fill:lacks/retains% the capacity to make reasoned decisions regarding %fill:his/her% healthcare, finances, and estate planning. </string>
+			<string>The patient %fill:lacks/retains% the capacity to make reasoned decisions regarding %fill:his/her% healthcare, finances, and estate planning. %fillpart:name=Retain DPOA%The patient does, however, retain the capacity to appoint a Durable Power of Attorney%fillpartend%</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>3</integer>
 			<key>uuidString</key>
 			<string>36D08D31-F103-40CD-840D-2960879C7871</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,cp3</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-01-28T15:33:44Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Capacity 3</string>
+			<key>lastUsed</key>
+			<date>2013-07-18T18:51:30Z</date>
+			<key>modificationDate</key>
+			<date>2013-07-15T13:06:45Z</date>
+			<key>plainText</key>
+			<string>The patient %filltext:name=lacks:default=lacks% the capacity to manage %fill:gender% day-to-day affairs and %filltext:name=lacks% the capacity to make reasoned decisions regarding %fill:gender% healthcare, finances, and estate planning. Additionally, the patient does not have the capacity to understand %fill:gender% needs, state them, or have them met. We recommend that the patient is appointed a guardian at this time.</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>3</integer>
+			<key>uuidString</key>
+			<string>8B2952B3-724D-4B8E-9BEA-F25090772584</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -260,6 +402,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string>Caucasian</string>
+			<key>lastUsed</key>
+			<date>2013-06-10T20:00:02Z</date>
 			<key>modificationDate</key>
 			<date>2012-12-08T04:46:20Z</date>
 			<key>plainText</key>
@@ -267,7 +411,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>3</integer>
 			<key>uuidString</key>
 			<string>3A71F9E3-81DB-44C9-BBBA-24FE2767A3FE</string>
 		</dict>
@@ -283,15 +427,15 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-12-12T15:03:51Z</date>
+			<date>2013-06-07T15:56:56Z</date>
 			<key>modificationDate</key>
-			<date>2012-07-27T14:09:20Z</date>
+			<date>2013-01-21T20:13:51Z</date>
 			<key>plainText</key>
 			<string>Caucasian female</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>12</integer>
+			<integer>16</integer>
 			<key>uuidString</key>
 			<string>F7608098-B26C-41E3-8BED-DA928A7B6CEB</string>
 		</dict>
@@ -307,7 +451,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-08-30T20:58:01Z</date>
+			<date>2013-06-10T20:00:27Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T14:09:54Z</date>
 			<key>plainText</key>
@@ -315,13 +459,37 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>6</integer>
+			<integer>13</integer>
 			<key>uuidString</key>
 			<string>EFA23C4A-42F6-4430-BD84-818E2D555462</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`copd</string>
+			<string>,cdns</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-01-07T16:12:11Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Cog NOS</string>
+			<key>lastUsed</key>
+			<date>2013-07-12T16:24:05Z</date>
+			<key>modificationDate</key>
+			<date>2013-01-29T16:14:33Z</date>
+			<key>plainText</key>
+			<string>Cognitive Disorder %snippet:,nots%</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>13</integer>
+			<key>uuidString</key>
+			<string>E8F8EC00-E0F0-49B8-A119-6404E5F88E2F</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,copd</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -331,21 +499,21 @@
 			<key>label</key>
 			<string>COPD</string>
 			<key>lastUsed</key>
-			<date>2012-10-10T20:31:37Z</date>
+			<date>2013-06-06T15:55:54Z</date>
 			<key>modificationDate</key>
-			<date>2012-08-06T19:25:26Z</date>
+			<date>2013-01-21T20:14:34Z</date>
 			<key>plainText</key>
 			<string>chronic obstructive pulmonary disorder (COPD)</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>1</integer>
+			<integer>3</integer>
 			<key>uuidString</key>
 			<string>CF9A8143-FB0C-4699-8A46-9F90F9CC4998</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>cva</string>
+			<string>,cva</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -355,21 +523,45 @@
 			<key>label</key>
 			<string>CVA</string>
 			<key>lastUsed</key>
-			<date>2012-08-16T20:41:36Z</date>
+			<date>2013-07-18T20:56:38Z</date>
 			<key>modificationDate</key>
-			<date>2012-08-13T19:59:37Z</date>
+			<date>2013-02-18T21:29:29Z</date>
 			<key>plainText</key>
 			<string>cerebrovascular accident</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>6</integer>
 			<key>uuidString</key>
 			<string>64FC6169-473E-4B04-A622-B7A3297043AB</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`dm</string>
+			<string>,dnos</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-04-24T14:17:31Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Dementia NOS</string>
+			<key>lastUsed</key>
+			<date>2013-06-24T13:46:49Z</date>
+			<key>modificationDate</key>
+			<date>2013-04-24T14:17:46Z</date>
+			<key>plainText</key>
+			<string>Dementia Not Otherwise Specified</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>3</integer>
+			<key>uuidString</key>
+			<string>58404E05-21E1-4BD9-AAC9-F7D175C04307</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,dm</string>
 			<key>abbreviationMode</key>
 			<integer>2</integer>
 			<key>creationDate</key>
@@ -379,17 +571,41 @@
 			<key>label</key>
 			<string>Diabetes Mellitus</string>
 			<key>lastUsed</key>
-			<date>2012-12-11T18:21:18Z</date>
+			<date>2013-06-28T13:16:29Z</date>
 			<key>modificationDate</key>
-			<date>2012-08-29T14:55:01Z</date>
+			<date>2013-01-21T20:14:38Z</date>
 			<key>plainText</key>
 			<string>diabetes mellitus</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>6</integer>
+			<integer>9</integer>
 			<key>uuidString</key>
 			<string>7DE3FAB1-E0E1-4187-9841-0457965AE955</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dgd</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-03-07T22:28:00Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Diagnosed</string>
+			<key>lastUsed</key>
+			<date>2013-03-21T18:45:17Z</date>
+			<key>modificationDate</key>
+			<date>2013-03-07T22:28:00Z</date>
+			<key>plainText</key>
+			<string>diagnosed</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>7B2AF599-09CB-4AE6-B1E7-09751CC25F85</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -403,7 +619,7 @@
 			<key>label</key>
 			<string>diagnosis</string>
 			<key>lastUsed</key>
-			<date>2012-12-11T18:28:52Z</date>
+			<date>2013-07-17T21:20:09Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T20:45:29Z</date>
 			<key>plainText</key>
@@ -411,7 +627,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>17</integer>
+			<integer>65</integer>
 			<key>uuidString</key>
 			<string>FEDB959D-37E7-4859-A2C7-7416091C6BDD</string>
 		</dict>
@@ -426,6 +642,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string>DKEFS</string>
+			<key>lastUsed</key>
+			<date>2013-07-17T15:35:06Z</date>
 			<key>modificationDate</key>
 			<date>2012-10-02T21:05:58Z</date>
 			<key>plainText</key>
@@ -433,13 +651,13 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>uuidString</key>
 			<string>901A6445-FDFB-4097-9243-A93EAED59727</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`dpa</string>
+			<string>,dpa</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -449,15 +667,15 @@
 			<key>label</key>
 			<string>DPOA</string>
 			<key>lastUsed</key>
-			<date>2012-10-23T00:30:07Z</date>
+			<date>2013-07-15T13:12:33Z</date>
 			<key>modificationDate</key>
-			<date>2012-07-30T18:41:14Z</date>
+			<date>2013-01-21T20:13:37Z</date>
 			<key>plainText</key>
 			<string>Durable Power of Attorney</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>5</integer>
+			<integer>16</integer>
 			<key>uuidString</key>
 			<string>2AA75063-96D1-44ED-98DE-F5E98D231899</string>
 		</dict>
@@ -497,7 +715,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-12-13T04:56:27Z</date>
+			<date>2013-07-15T13:18:47Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-30T16:35:25Z</date>
 			<key>plainText</key>
@@ -505,9 +723,33 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>34</integer>
+			<integer>65</integer>
 			<key>uuidString</key>
 			<string>33F3F6C7-C8F8-4FE7-9F00-D5E066E6B418</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,ftd</string>
+			<key>abbreviationMode</key>
+			<integer>2</integer>
+			<key>creationDate</key>
+			<date>2013-06-10T21:19:14Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Frontotemp Dem</string>
+			<key>lastUsed</key>
+			<date>2013-06-12T14:39:22Z</date>
+			<key>modificationDate</key>
+			<date>2013-06-10T21:20:07Z</date>
+			<key>plainText</key>
+			<string>frontotemporal dementia</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>3AD61D64-E697-413B-AC1F-5A91D3702F67</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -521,15 +763,15 @@
 			<key>label</key>
 			<string>Full Adult Battery</string>
 			<key>lastUsed</key>
-			<date>2012-12-06T19:26:57Z</date>
+			<date>2013-06-05T06:12:28Z</date>
 			<key>modificationDate</key>
-			<date>2012-08-06T13:51:11Z</date>
+			<date>2013-03-18T14:28:50Z</date>
 			<key>plainText</key>
-			<string>The following neurocognitive tests were administered to the patient: Wechsler Adult Intelligence Scale – IV (WAIS - IV), Wechsler Memory Scale – IV (WMS-IV), Advanced Clinical Solutions Test of Premorbid Functioning (TOPF), Advanced Clinical Solutions Word Choice, one subtest from the Peabody Individual Achievement Test - Revised (PIAT-R), selected subtests from the Wide Range of Achievement Test - 4 (WRAT-4), selected subtests from the Halstead-Reitan Neuropsychological Battery (HRNB), selected subtests from the Delis Kaplan Executive Function System (DKEFS), the Minnesota Multiphasic Personality Inventory - 2, Restructured Form (MMPI-2 RF), the Millon Clinical Multiaxial Inventory - III (MCMI-III), Green's Word Memory Test (WMT), the Dot Counting Test (DCT), and The Test of Memory Malingering (TOMM).	</string>
+			<string>Wechsler Adult Intelligence Scale – IV (WAIS - IV), Wechsler Memory Scale – IV (WMS-IV), Advanced Clinical Solutions Test of Premorbid Functioning (TOPF), Advanced Clinical Solutions Word Choice, one subtest from the Peabody Individual Achievement Test - Revised (PIAT-R), selected subtests from the Wide Range of Achievement Test - 4 (WRAT-4), selected subtests from the Halstead-Reitan Neuropsychological Battery (HRNB), selected subtests from the Delis Kaplan Executive Function System (DKEFS), the Minnesota Multiphasic Personality Inventory - 2, Restructured Form (MMPI-2 RF), the Millon Clinical Multiaxial Inventory - III (MCMI-III), Green's Word Memory Test (WMT), the Dot Counting Test (DCT), and The Test of Memory Malingering (TOMM).	</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>11</integer>
+			<integer>15</integer>
 			<key>uuidString</key>
 			<string>E07FECEA-62A9-40E6-B3E5-2A19DDB5FABB</string>
 		</dict>
@@ -557,6 +799,30 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
+			<string>;hip</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-03-22T02:37:59Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>HIPAA</string>
+			<key>lastUsed</key>
+			<date>2013-07-19T19:32:18Z</date>
+			<key>modificationDate</key>
+			<date>2013-03-22T02:37:59Z</date>
+			<key>plainText</key>
+			<string>HIPAA</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>68</integer>
+			<key>uuidString</key>
+			<string>68C72AC4-85F2-49E9-9A1C-F682C5E0C980</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
 			<string>hx</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
@@ -567,7 +833,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-12-11T17:50:56Z</date>
+			<date>2013-07-18T21:02:53Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T14:42:51Z</date>
 			<key>plainText</key>
@@ -575,9 +841,33 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>67</integer>
+			<integer>151</integer>
 			<key>uuidString</key>
 			<string>7DB90D60-3CC4-48A9-BC48-7CA5D27DCC3E</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;ht</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-04-09T04:14:32Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>HITECH</string>
+			<key>lastUsed</key>
+			<date>2013-04-19T20:50:31Z</date>
+			<key>modificationDate</key>
+			<date>2013-04-09T04:15:00Z</date>
+			<key>plainText</key>
+			<string>HITECH</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>BE4D26B2-D40B-4979-825D-0FB6079EB190</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -639,7 +929,7 @@
 			<key>label</key>
 			<string>hyperlipidemia</string>
 			<key>lastUsed</key>
-			<date>2012-08-31T14:25:58Z</date>
+			<date>2013-06-28T13:27:02Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-29T14:50:31Z</date>
 			<key>plainText</key>
@@ -647,7 +937,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>6</integer>
 			<key>uuidString</key>
 			<string>DA5FC644-DB4E-4F89-9A6C-1016FFE78651</string>
 		</dict>
@@ -663,7 +953,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-10-22T17:58:21Z</date>
+			<date>2013-07-02T19:00:38Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T14:11:25Z</date>
 			<key>plainText</key>
@@ -671,7 +961,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>10</integer>
+			<integer>19</integer>
 			<key>uuidString</key>
 			<string>B3C25672-E9AB-400D-BF5E-393CE80079BE</string>
 		</dict>
@@ -687,7 +977,7 @@
 			<key>label</key>
 			<string>hyperthyroidism</string>
 			<key>lastUsed</key>
-			<date>2012-07-31T20:42:31Z</date>
+			<date>2013-04-18T15:20:00Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T20:42:15Z</date>
 			<key>plainText</key>
@@ -695,7 +985,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>3</integer>
 			<key>uuidString</key>
 			<string>BE049825-5440-424E-A2A6-16AAE2C6B0FC</string>
 		</dict>
@@ -710,6 +1000,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string>hypothyroidism</string>
+			<key>lastUsed</key>
+			<date>2013-06-28T13:47:31Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T20:41:42Z</date>
 			<key>plainText</key>
@@ -717,7 +1009,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>uuidString</key>
 			<string>77F89047-732E-411A-9BB2-C709DE0E1C7E</string>
 		</dict>
@@ -733,7 +1025,7 @@
 			<key>label</key>
 			<string>impaired</string>
 			<key>lastUsed</key>
-			<date>2012-09-16T22:12:07Z</date>
+			<date>2013-06-18T15:11:45Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T20:43:03Z</date>
 			<key>plainText</key>
@@ -741,35 +1033,57 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>3</integer>
+			<integer>8</integer>
 			<key>uuidString</key>
 			<string>8857DDB5-92DB-4BBC-BDA1-D72A28BE642F</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,incon</string>
+			<string>,iadl</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2012-12-08T04:41:39Z</date>
+			<date>2013-04-19T21:04:44Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Inpt Consult</string>
+			<string>Instrumental ADL</string>
 			<key>lastUsed</key>
-			<date>2012-12-08T04:55:30Z</date>
+			<date>2013-05-23T21:15:55Z</date>
 			<key>modificationDate</key>
-			<date>2012-12-08T04:50:16Z</date>
+			<date>2013-04-19T21:05:00Z</date>
 			<key>plainText</key>
-			<string>KUSM-W Neuropsychology ConsultationDate of Consultation: Consultant: Robin Heinrichs, Ph.D. Patient: Date of Birth:	 	Referral: Dr. %fill:dr% referred this %fill:age%-year-old, %fill:hand%-handed ETHNICITY GENDER for a neuropsychological cognitive baseline examination. Procedures: The chart was reviewed, an interview was conducted with the patient, and the case was discussed with the staff. The Repeatable Battery for the Assessment of Neuropsychological Status, Form A (RBANS-A) was given.History of Presenting Problem: The patient was brought to the Senior Behavioral Unit at Via Christi Regional Medical Center on DATEMental Status: %snippet:msin%Summary of Findings: Impression and Recommendations:	1. 
-2. 
-3. Thank you for involving us in the care of this patient.</string>
+			<string>Instrumental Activities of Daily Living</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>uuidString</key>
-			<string>01BF1482-4E5B-4EF9-823E-5F32F9626A3F</string>
+			<string>AB30F3BC-3C51-43F9-A3EA-5DB499B1E5A8</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>mdd</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-06-28T13:22:25Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Maj Dep</string>
+			<key>lastUsed</key>
+			<date>2013-07-12T18:08:18Z</date>
+			<key>modificationDate</key>
+			<date>2013-06-28T13:22:44Z</date>
+			<key>plainText</key>
+			<string>Major Depressive Disorder</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>BB514A68-270A-4801-8590-DF4C026DC4A0</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -783,7 +1097,7 @@
 			<key>label</key>
 			<string>Med records</string>
 			<key>lastUsed</key>
-			<date>2012-12-10T15:40:32Z</date>
+			<date>2013-07-18T19:53:33Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T22:49:24Z</date>
 			<key>plainText</key>
@@ -791,13 +1105,13 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>14</integer>
+			<integer>28</integer>
 			<key>uuidString</key>
 			<string>F1C35E2D-7FFC-4B66-A00F-1FA4C18E7C0B</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`md</string>
+			<string>mdl</string>
 			<key>abbreviationMode</key>
 			<integer>2</integer>
 			<key>creationDate</key>
@@ -807,15 +1121,15 @@
 			<key>label</key>
 			<string>medical</string>
 			<key>lastUsed</key>
-			<date>2012-12-10T15:16:56Z</date>
+			<date>2013-07-19T19:39:02Z</date>
 			<key>modificationDate</key>
-			<date>2012-08-06T15:08:27Z</date>
+			<date>2013-07-19T19:38:52Z</date>
 			<key>plainText</key>
 			<string>medical</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>23</integer>
+			<integer>99</integer>
 			<key>uuidString</key>
 			<string>6FEC9354-5579-494A-9FC3-C48888B1A77E</string>
 		</dict>
@@ -831,7 +1145,7 @@
 			<key>label</key>
 			<string>Medical History</string>
 			<key>lastUsed</key>
-			<date>2012-12-10T14:52:34Z</date>
+			<date>2013-07-02T19:00:23Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-29T14:41:17Z</date>
 			<key>plainText</key>
@@ -839,7 +1153,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>8</integer>
+			<integer>25</integer>
 			<key>uuidString</key>
 			<string>548257E4-D60B-4601-9270-1BD87B452E1A</string>
 		</dict>
@@ -849,23 +1163,23 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2012-07-27T18:50:36Z</date>
+			<date>2013-01-28T15:40:00Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Mental Status Inpatient</string>
 			<key>lastUsed</key>
-			<date>2012-12-10T14:35:33Z</date>
+			<date>2013-07-17T21:34:39Z</date>
 			<key>modificationDate</key>
-			<date>2012-07-27T21:32:23Z</date>
+			<date>2013-07-17T21:39:14Z</date>
 			<key>plainText</key>
-			<string>The patient was %fill:seated/lying% in %fill:the hospital room%. %fill:Gender% was %fill:dressed quality% and was %fill:grooming%. %fill:Gender% was %fill:able% to clearly articulate the reason for %fill:his/her admission%. %fill:Gender% %fill:was% oriented to %fill:place, time, person, and situation%. The patient was %fill:un/able% to report %fill:personal and medical% history. Insight was %fill:qualify%. Thought processes were %fill:processess%. Expressive speech was %fill:of normal tone, rate, prosody, volume%. The patient %fill:was/not% able to comprehend %fill:interview questions test instructions% %fill:with/out% repetition. Affect was %fill:affect%. </string>
+			<string>The patient was %fill:seated/lying where% in %fill:location%. %fill:Gender% was %fill:dressed%, and was %fillpopup:name=Grooming Quality:default=slightly disheveled:somewhat disheveled:moderately disheveled:appropriately groomed:neatly groomed%. %fill:Gender% was %fillpopup:name=ReportReason:default=able:unable% to clearly articulate the reason for %fillpopup:name=GenderPoss:default=his:her% admission. The patient's attitude towards the evaluation was %fillpopup:name=Attitude:default=cooperative:hostile:open:secretive:evasive:suspicious:apathetic:focused:defensive%. %fill:Gender% was %fillpopup:name=Level of Consciousness:default=alert:vigilant:drowsy:lethargic:stuporous:comatose:confused:fluctuating% and oriented to %fill:person, place, situation, time%. The patient was %fillpopup:name=able2:unable:able% to report %fill:personal/medical history%. Insight was %fillpopup:name=insight:default=appropriate:limited:poor%. Thought processes were %fillpopup:name=thought processes:default=logical and coherent:linear:tangential:disorganized:goal-directed:circumstantial:reflective of loose associations:incoherent:evasive:racing:blocking%. Content of thought was %fillpopup:name=thought content:default=appropriate:perseverative:ruminative:delusional:paranoid%. Expressive speech was %fillpart:name=Normal%of normal tone, rate, volume, and prosody.%fillpartend% %filltext:name=Not Normal:width=20% %fillpart:name=with:default=yes%with%fillpartend% %fillpart:name=Rate% %fillpopup:name=RateofSpeech:default=fast:slow:pressured:hesitant% rate of speech%fillpartend% %fillpart:name=volume% %fillpopup:name=Speech Volume:default=loud:soft:monotone:weak:strong% volume of speech%fillpartend% %fillpart:name=Prosody%%fillpopup:name=Prosody:default=clear:of limited range:of broad range:aphasic% prosody.%fillpartend% %fillpart:name=Tone%%fillpopup:name=Tone:default=anxious:dysphoric:depressed:dysthymic:elated% tone.%fillpartend% %fillpart:name=Quantity%%fillpopup:name=Quantity:default=spontaneous:expansive:sparse% quantity.%fillpartend% The patient was %fillpopup:name=AbleComprehend:default=able:unable% to comprehend interview and test questions %fill:with/out% clarification and repetition. Affect was %fillpopup:name=affect:default=euthymic:dysphoric:depressed:dysthymic:detached:elated:euphoric:anxious:animated:irritable:labile:broad:restricted:blunted:flat%. %fillpart:name=Mood%Mood was %fillpopup:name=mood:default=euthymic:euphoric:dysphoric:depressed:dysthymic:congruent%.%fillpartend%</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>8</integer>
+			<integer>7</integer>
 			<key>uuidString</key>
-			<string>9F3A82AC-27F6-4756-BA24-77FF4B7B4ABD</string>
+			<string>5D5E1ABB-1D0E-460C-AE88-1DABCA68C054</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -879,15 +1193,15 @@
 			<key>label</key>
 			<string>Mental Status Outpatient</string>
 			<key>lastUsed</key>
-			<date>2012-10-22T16:52:15Z</date>
+			<date>2013-05-09T14:26:56Z</date>
 			<key>modificationDate</key>
-			<date>2012-10-10T14:23:54Z</date>
+			<date>2013-05-15T14:02:46Z</date>
 			<key>plainText</key>
-			<string>%fill:Gender% was %fill:dressed quality% and was %fill:grooming%. %fill:Gender% was %fill:unable% to clearly articulate the reason for this evaluation. The patient %fill:was un/able% to report %fill:personal and medical% history. Insight was %fill:qualify%. Thought processes were %fill:processes%. Expressive speech was of normal %fill:tone, rate, prosody, volume%. The patient %fill:was/not% able to comprehend interview questions %fill:with/out% repetition. Affect was %fill:affect% with %fill:mood% mood. </string>
+			<string>The patient arrived %fillpopup:name=when:default=on time:late% for %fill:GenderPoss% appointment %fillpart:name=accompanied:default=yes%and was accompanied by %fill:GenderPoss% %fill:other%%fillpartend%. %fill:Gender% was %fill:dressed%, and was %fillpopup:name=Grooming Quality:default=slightly disheveled:somewhat disheveled:moderately disheveled:appropriately groomed:neatly groomed%. %fill:Gender% was %fillpopup:name=articulate:default=unable:able% to clearly articulate the reason for this evaluation. The patient's attitude towards the evaluation was %fillpopup:name=Attitude:default=cooperative:hostile:open:secretive:evasive:suspicious:apathetic:focused:defensive%. %fill:Gender% was %fillpopup:name=Level of Consciousness:default=alert:vigilant:drowsy:lethargic:stuporous:comatose:confused:fluctuating% throughout the evaluation. The patient was %fillpopup:name=able:default=unable:able% to report %fill:personal/medical history%. Insight was %fillpopup:name=insight:default=excellent:appropriate:limited:poor%. Thought processes were %fillpopup:name=thought processes:default=logical and coherent:linear:tangential:disorganized:goal-directed:circumstantial:reflective of loose associations:incoherent:evasive:racing:blocking:impoverished%. Content of thought was %fillpopup:name=thought content:default=appropriate:perseverative:ruminative:delusional:paranoid:impoverished%. Expressive speech was of normal %fill:speech%. %fillpart:name=Rate:default=no%Rate of speech was %fillpopup:name=RateofSpeech:default=fast:slow:pressured:hesitant%. %fillpartend% %fillpart:name=volume%Volume of speech was %fillpopup:name=Speech Volume:default=loud:strong:monotone:soft:weak%.%fillpartend% %fillpart:name=Prosody%Prosody was %fillpopup:name=Prosody:default=clear:of limited range:of broad range:aphasic:with good articulation%.%fillpartend% %fillpart:name=Quantity%Quantity was %fillpopup:name=Quantity:default=spontaneous:expansive:sparse%.%fillpartend% The patient was %fillpopup:name=AbleComprehend:default=able:unable% to comprehend interview and test questions %fill:with/out% clarification and repetition. Affect was %fillpopup:name=affect:default=euthymic:dysphoric:dysthymic:detached:elated:euphoric:anxious:animated:irritable:labile:broad:restricted:blunted:flat%. %fillpart:name=Mood%Mood was %fillpopup:name=mood:default=euthymic:euphoric:dysthymic:depressed:congruent%.%fillpartend%</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>15</integer>
+			<integer>23</integer>
 			<key>uuidString</key>
 			<string>D997A670-D8A9-4F3A-85F5-454A956D9BC7</string>
 		</dict>
@@ -903,7 +1217,7 @@
 			<key>label</key>
 			<string>MI</string>
 			<key>lastUsed</key>
-			<date>2012-09-27T14:51:04Z</date>
+			<date>2013-01-11T14:42:26Z</date>
 			<key>modificationDate</key>
 			<date>2012-09-27T14:49:34Z</date>
 			<key>plainText</key>
@@ -911,9 +1225,57 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>3</integer>
 			<key>uuidString</key>
 			<string>EFC6A23D-0B00-46A9-8097-20C1743EF9E2</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,mci</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-01-21T19:29:47Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Mild Cog Impairment</string>
+			<key>lastUsed</key>
+			<date>2013-01-21T19:30:22Z</date>
+			<key>modificationDate</key>
+			<date>2013-01-21T19:30:14Z</date>
+			<key>plainText</key>
+			<string>Mild Cognitive Impairment</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>C06C74CE-E61C-4437-9D95-847BE8FAD687</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;moca</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-03-19T14:44:54Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>MoCA</string>
+			<key>lastUsed</key>
+			<date>2013-03-19T14:46:29Z</date>
+			<key>modificationDate</key>
+			<date>2013-03-19T14:45:34Z</date>
+			<key>plainText</key>
+			<string>Montreal Cognitive Assessment (MoCA)</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>A28085B3-D58D-4E0F-9497-64A55546A0E4</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -927,7 +1289,7 @@
 			<key>label</key>
 			<string>Multiaxial Diagnosis</string>
 			<key>lastUsed</key>
-			<date>2012-08-09T06:33:12Z</date>
+			<date>2013-03-18T13:56:19Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-01T23:53:16Z</date>
 			<key>plainText</key>
@@ -940,9 +1302,33 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>3</integer>
+			<integer>5</integer>
 			<key>uuidString</key>
 			<string>61124BAD-53FD-4D0A-8FDE-20B6322B21A7</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,ng</string>
+			<key>abbreviationMode</key>
+			<integer>2</integer>
+			<key>creationDate</key>
+			<date>2013-03-11T13:52:22Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>neurocognitive</string>
+			<key>lastUsed</key>
+			<date>2013-07-17T15:32:47Z</date>
+			<key>modificationDate</key>
+			<date>2013-06-28T14:17:39Z</date>
+			<key>plainText</key>
+			<string>neurocognitive</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>35</integer>
+			<key>uuidString</key>
+			<string>87708FF2-78CF-4201-9C88-F86A322BAA80</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -956,17 +1342,41 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>Neuropsychological</string>
 			<key>lastUsed</key>
-			<date>2012-12-11T19:23:59Z</date>
+			<date>2013-07-19T05:08:31Z</date>
 			<key>modificationDate</key>
-			<date>2012-11-10T22:42:07Z</date>
+			<date>2013-03-07T02:20:56Z</date>
 			<key>plainText</key>
 			<string>neuropsychological</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>7</integer>
+			<integer>87</integer>
 			<key>uuidString</key>
 			<string>C10DC7A0-26FF-48A9-81BB-8A06FD2083A9</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,nt</string>
+			<key>abbreviationMode</key>
+			<integer>2</integer>
+			<key>creationDate</key>
+			<date>2012-12-16T19:51:58Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Neuropsychologist</string>
+			<key>lastUsed</key>
+			<date>2013-07-20T03:26:22Z</date>
+			<key>modificationDate</key>
+			<date>2012-12-16T19:52:28Z</date>
+			<key>plainText</key>
+			<string>neuropsychologist</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>54</integer>
+			<key>uuidString</key>
+			<string>2A63615B-61AE-40DE-8F5F-7910A52CE630</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -980,7 +1390,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>Neuropsychology</string>
 			<key>lastUsed</key>
-			<date>2012-12-11T19:23:54Z</date>
+			<date>2013-07-20T03:21:20Z</date>
 			<key>modificationDate</key>
 			<date>2012-10-30T15:55:17Z</date>
 			<key>plainText</key>
@@ -988,13 +1398,13 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>30</integer>
+			<integer>142</integer>
 			<key>uuidString</key>
 			<string>13074B9B-472F-4888-8A71-311DCA81C31A</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`nots</string>
+			<string>,nots</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -1004,15 +1414,15 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-09-14T18:37:56Z</date>
+			<date>2013-06-18T14:58:38Z</date>
 			<key>modificationDate</key>
-			<date>2012-07-27T14:10:12Z</date>
+			<date>2013-01-21T20:13:20Z</date>
 			<key>plainText</key>
 			<string>Not Otherwise Specified</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>4</integer>
+			<integer>8</integer>
 			<key>uuidString</key>
 			<string>CD817D02-4A48-448D-BC5B-2EEC70857551</string>
 		</dict>
@@ -1028,7 +1438,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>noted</string>
 			<key>lastUsed</key>
-			<date>2012-12-12T15:25:28Z</date>
+			<date>2013-07-18T20:37:53Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T13:45:33Z</date>
 			<key>plainText</key>
@@ -1036,13 +1446,13 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>15</integer>
+			<integer>25</integer>
 			<key>uuidString</key>
 			<string>833BF66E-2719-41CB-80D1-D6BD81A67216</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`pt</string>
+			<string>;pt</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -1052,21 +1462,21 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-12-12T15:17:04Z</date>
+			<date>2013-07-19T05:57:36Z</date>
 			<key>modificationDate</key>
-			<date>2012-07-27T14:07:29Z</date>
+			<date>2013-02-20T16:17:41Z</date>
 			<key>plainText</key>
 			<string>patient</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>106</integer>
+			<integer>354</integer>
 			<key>uuidString</key>
 			<string>DCDC8438-7D10-469D-973E-FB6188977F6B</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`ps</string>
+			<string>;pss</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -1076,15 +1486,15 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-12-13T15:52:01Z</date>
+			<date>2013-02-06T22:56:54Z</date>
 			<key>modificationDate</key>
-			<date>2012-07-27T14:08:30Z</date>
+			<date>2013-02-20T16:17:55Z</date>
 			<key>plainText</key>
 			<string>patient's</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>114</integer>
+			<integer>122</integer>
 			<key>uuidString</key>
 			<string>90C1C847-142A-4E22-BE71-9D53FE39DACD</string>
 		</dict>
@@ -1100,7 +1510,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-10-02T16:17:32Z</date>
+			<date>2013-06-27T22:57:23Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-30T16:34:15Z</date>
 			<key>plainText</key>
@@ -1108,13 +1518,13 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>54</integer>
+			<integer>87</integer>
 			<key>uuidString</key>
 			<string>ACD795B3-4639-452F-9410-F892374B05F1</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`per</string>
+			<string>;perf</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -1124,15 +1534,15 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-12-10T15:42:28Z</date>
+			<date>2013-07-03T18:50:52Z</date>
 			<key>modificationDate</key>
-			<date>2012-09-27T21:00:49Z</date>
+			<date>2013-07-12T18:09:54Z</date>
 			<key>plainText</key>
 			<string>performance</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>32</integer>
+			<integer>61</integer>
 			<key>uuidString</key>
 			<string>D1362840-8930-4574-BEAF-97EB7291E9B9</string>
 		</dict>
@@ -1172,7 +1582,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>Poor hist</string>
 			<key>lastUsed</key>
-			<date>2012-10-22T16:48:07Z</date>
+			<date>2013-07-17T20:42:38Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-25T05:49:27Z</date>
 			<key>plainText</key>
@@ -1180,9 +1590,33 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>5</integer>
 			<key>uuidString</key>
 			<string>8C956B72-DFB0-468A-BCF2-CE719F01D29D</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>poimd</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-01-28T15:08:19Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Poor impaired</string>
+			<key>lastUsed</key>
+			<date>2013-06-18T15:12:12Z</date>
+			<key>modificationDate</key>
+			<date>2013-01-28T15:10:28Z</date>
+			<key>plainText</key>
+			<string>poor and impaired</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>C8EC39B9-500B-430E-83E3-9D9995BA3547</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -1196,7 +1630,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>prof impaired</string>
 			<key>lastUsed</key>
-			<date>2012-08-13T20:33:54Z</date>
+			<date>2013-07-18T18:54:21Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T20:43:07Z</date>
 			<key>plainText</key>
@@ -1204,13 +1638,13 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>uuidString</key>
 			<string>D0F3274F-7F90-4A53-8C7B-E3F8F68B0BD0</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`py</string>
+			<string>pyc</string>
 			<key>abbreviationMode</key>
 			<integer>2</integer>
 			<key>creationDate</key>
@@ -1220,15 +1654,15 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>Psychiatric</string>
 			<key>lastUsed</key>
-			<date>2012-12-10T15:49:59Z</date>
+			<date>2013-07-03T16:43:16Z</date>
 			<key>modificationDate</key>
-			<date>2012-10-05T15:54:34Z</date>
+			<date>2013-06-28T13:21:05Z</date>
 			<key>plainText</key>
 			<string>psychiatric</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>22</integer>
+			<integer>30</integer>
 			<key>uuidString</key>
 			<string>61EE1AA2-AC52-4607-A1E3-7953B9785472</string>
 		</dict>
@@ -1244,15 +1678,15 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>RBANS</string>
 			<key>lastUsed</key>
-			<date>2012-10-02T17:00:13Z</date>
+			<date>2013-05-22T13:53:24Z</date>
 			<key>modificationDate</key>
-			<date>2012-09-18T15:54:23Z</date>
+			<date>2013-02-13T15:49:27Z</date>
 			<key>plainText</key>
-			<string>Repeatable Battery for the Assessment of Neuropsychological Status (RBANS)</string>
+			<string>Repeatable Battery for the Assessment of Neuropsychological Status, Form %fillpopup:name=RBANS form:default=A:B% (RBANS-%filltext:name=RBANS form version:default=A%)</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>9</integer>
 			<key>uuidString</key>
 			<string>51EBB53B-E090-466C-841B-564397FD8C8E</string>
 		</dict>
@@ -1263,14 +1697,57 @@ Axis V:  	GAF =
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2012-12-12T14:43:44Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 ## KUSM-W Neuropsychology Consultation ##\
+\
+\
+**Date of Consultation:** %fill:EVAL_DATE%  \
+**Consultant:** Robin Heinrichs, Ph.D.   \
+\
+**Patient:** %fill:name%  \
+**Date of Birth:** %fill:DOB%\
+\
+**Referral:** Dr. %fill:doctor% referred this %fill:age%-year-old, %fill:hand%-handed %fillpopup:name=Ethnicity Gender:default=Caucasian male:Caucasian female:African American male:African American female% for a neuropsychological cognitive baseline examination. \
+\
+**Procedures:** The chart was reviewed, an interview was conducted with the patient, and the case was discussed with the staff. %fillpopup:name=Tests:default=The Repeatable Battery for the Assessment of Neuropsychological Status, Form A (RBANS-A):The Montreal Cognitive Assessment:The Repeatable Battery for the Assessment of Neuropsychological Status, Form A (RBANS-A) and the Montreal Cognitive Assessment (MoCA)%%fillpart:name=Trails%, Trail Making Test A &amp; B%fillpartend%%fillpart:name=social judgment%, and social judgment questions %fillpartend%%fillpopup:name=verb:default=was:were% given.\
+\
+**History of Presenting Problem:** The patient was brought to the Senior Behavioral Unit at Via Christi Regional Medical Center on East Harry on %fill:ADMIT_DATE% due to %fill:PROBLEM%. \
+\
+**Mental Status:** The patient was evaluated on %fill:EVAL_DATE% on the Senior Behavioral Unit. %snippet:msin%\
+\
+**Summary of Findings:** \
+\
+**Impression and Recommendations:**	  \
+&gt;1.	One  \
+&gt;2.	Two   \
+&gt;3.	Three, etc.    \
+\
+Thank you for involving us in the care of this patient.\
+\
+\
+\
+												\
+W. Howard Buddin Jr., Ph.D.               \
+Neuropsychology Fellow  \
+\
+Robin Heinrichs, Ph.D.  \
+Neuropsychologist}</string>
+			</dict>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Report Skeleton Inpatient</string>
 			<key>lastUsed</key>
-			<date>2012-12-12T14:58:01Z</date>
+			<date>2013-07-18T18:47:32Z</date>
 			<key>modificationDate</key>
-			<date>2012-12-12T15:05:04Z</date>
+			<date>2013-07-19T20:00:28Z</date>
 			<key>plainText</key>
 			<string>## KUSM-W Neuropsychology Consultation ##
 
@@ -1281,13 +1758,13 @@ Axis V:  	GAF =
 **Patient:** %fill:name%  
 **Date of Birth:** %fill:DOB%
 
-**Referral:** Dr. %fill:doctor% referred this %fill:age%-year-old, Y-handed Ethnicity gender for a neuropsychological cognitive baseline examination. 
+**Referral:** Dr. %fill:doctor% referred this %fill:age%-year-old, %fill:hand%-handed %fillpopup:name=Ethnicity Gender:default=Caucasian male:Caucasian female:African American male:African American female% for a neuropsychological cognitive baseline examination. 
 
-**Procedures:** The chart was reviewed, an interview was conducted with the patient, and the case was discussed with the staff. The Repeatable Battery for the Assessment of Neuropsychological Status, Form A (RBANS-A) was given.
+**Procedures:** The chart was reviewed, an interview was conducted with the patient, and the case was discussed with the staff. %fillpopup:name=Tests:default=The Repeatable Battery for the Assessment of Neuropsychological Status, Form A (RBANS-A):The Montreal Cognitive Assessment:The Repeatable Battery for the Assessment of Neuropsychological Status, Form A (RBANS-A) and the Montreal Cognitive Assessment (MoCA)%%fillpart:name=Trails%, Trail Making Test A &amp; B%fillpartend%%fillpart:name=social judgment%, and social judgment questions %fillpartend%%fillpopup:name=verb:default=was:were% given.
 
-**History of Presenting Problem:** The patient was brought to the Senior Behavioral Unit at Via Christi Regional Medical Center on %fill:ADMIT_DATE% due to %fill:PROBLEM%. 
+**History of Presenting Problem:** The patient was brought to the Senior Behavioral Unit at Via Christi Regional Medical Center on East Harry on %fill:ADMIT_DATE% due to %fill:PROBLEM%. 
 
-**Mental Status:** The patient was evaluated on %fill:EVAL_DATE% in her hospital room on the Senior Behavioral Unit at Via Christi Regional Medical Center. %snippet:msin%
+**Mental Status:** The patient was evaluated on %fill:EVAL_DATE% on the Senior Behavioral Unit. %snippet:msin%
 
 **Summary of Findings:** 
 
@@ -1306,80 +1783,264 @@ Neuropsychology Fellow
 
 Robin Heinrichs, Ph.D.  
 Neuropsychologist</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQPTlNNdXRhYmxlU3RyaW5nAYSE
+			CE5TU3RyaW5nAZSEASuBbAYjIyBLVVNNLVcgTmV1cm9wc3ljaG9s
+			b2d5IENvbnN1bHRhdGlvbiAjIwoKCioqRGF0ZSBvZiBDb25zdWx0
+			YXRpb246KiogJWZpbGw6RVZBTF9EQVRFJSAgCioqQ29uc3VsdGFu
+			dDoqKiBSb2JpbiBIZWlucmljaHMsIFBoLkQuICAgCgoqKlBhdGll
+			bnQ6KiogJWZpbGw6bmFtZSUgIAoqKkRhdGUgb2YgQmlydGg6Kiog
+			JWZpbGw6RE9CJQoKKipSZWZlcnJhbDoqKiBEci4gJWZpbGw6ZG9j
+			dG9yJSByZWZlcnJlZCB0aGlzICVmaWxsOmFnZSUteWVhci1vbGQs
+			ICVmaWxsOmhhbmQlLWhhbmRlZCAlZmlsbHBvcHVwOm5hbWU9RXRo
+			bmljaXR5IEdlbmRlcjpkZWZhdWx0PUNhdWNhc2lhbiBtYWxlOkNh
+			dWNhc2lhbiBmZW1hbGU6QWZyaWNhbiBBbWVyaWNhbiBtYWxlOkFm
+			cmljYW4gQW1lcmljYW4gZmVtYWxlJSBmb3IgYSBuZXVyb3BzeWNo
+			b2xvZ2ljYWwgY29nbml0aXZlIGJhc2VsaW5lIGV4YW1pbmF0aW9u
+			LiAKCioqUHJvY2VkdXJlczoqKiBUaGUgY2hhcnQgd2FzIHJldmll
+			d2VkLCBhbiBpbnRlcnZpZXcgd2FzIGNvbmR1Y3RlZCB3aXRoIHRo
+			ZSBwYXRpZW50LCBhbmQgdGhlIGNhc2Ugd2FzIGRpc2N1c3NlZCB3
+			aXRoIHRoZSBzdGFmZi4gJWZpbGxwb3B1cDpuYW1lPVRlc3RzOmRl
+			ZmF1bHQ9VGhlIFJlcGVhdGFibGUgQmF0dGVyeSBmb3IgdGhlIEFz
+			c2Vzc21lbnQgb2YgTmV1cm9wc3ljaG9sb2dpY2FsIFN0YXR1cywg
+			Rm9ybSBBIChSQkFOUy1BKTpUaGUgTW9udHJlYWwgQ29nbml0aXZl
+			IEFzc2Vzc21lbnQ6VGhlIFJlcGVhdGFibGUgQmF0dGVyeSBmb3Ig
+			dGhlIEFzc2Vzc21lbnQgb2YgTmV1cm9wc3ljaG9sb2dpY2FsIFN0
+			YXR1cywgRm9ybSBBIChSQkFOUy1BKSBhbmQgdGhlIE1vbnRyZWFs
+			IENvZ25pdGl2ZSBBc3Nlc3NtZW50IChNb0NBKSUlZmlsbHBhcnQ6
+			bmFtZT1UcmFpbHMlLCBUcmFpbCBNYWtpbmcgVGVzdCBBICYgQiVm
+			aWxscGFydGVuZCUlZmlsbHBhcnQ6bmFtZT1zb2NpYWwganVkZ21l
+			bnQlLCBhbmQgc29jaWFsIGp1ZGdtZW50IHF1ZXN0aW9ucyAlZmls
+			bHBhcnRlbmQlJWZpbGxwb3B1cDpuYW1lPXZlcmI6ZGVmYXVsdD13
+			YXM6d2VyZSUgZ2l2ZW4uCgoqKkhpc3Rvcnkgb2YgUHJlc2VudGlu
+			ZyBQcm9ibGVtOioqIFRoZSBwYXRpZW50IHdhcyBicm91Z2h0IHRv
+			IHRoZSBTZW5pb3IgQmVoYXZpb3JhbCBVbml0IGF0IFZpYSBDaHJp
+			c3RpIFJlZ2lvbmFsIE1lZGljYWwgQ2VudGVyIG9uIEVhc3QgSGFy
+			cnkgb24gJWZpbGw6QURNSVRfREFURSUgZHVlIHRvICVmaWxsOlBS
+			T0JMRU0lLiAKCioqTWVudGFsIFN0YXR1czoqKiBUaGUgcGF0aWVu
+			dCB3YXMgZXZhbHVhdGVkIG9uICVmaWxsOkVWQUxfREFURSUgb24g
+			dGhlIFNlbmlvciBCZWhhdmlvcmFsIFVuaXQuICVzbmlwcGV0Om1z
+			aW4lCgoqKlN1bW1hcnkgb2YgRmluZGluZ3M6KiogCgoqKkltcHJl
+			c3Npb24gYW5kIFJlY29tbWVuZGF0aW9uczoqKgkgIAo+MS4JT25l
+			ICAKPjIuCVR3byAgIAo+My4JVGhyZWUsIGV0Yy4gICAgCgpUaGFu
+			ayB5b3UgZm9yIGludm9sdmluZyB1cyBpbiB0aGUgY2FyZSBvZiB0
+			aGlzIHBhdGllbnQuCgoKCgkJCQkJCQkJCQkJCQpXLiBIb3dhcmQg
+			QnVkZGluIEpyLiwgUGguRC4gICAgICAgICAgICAgICAKTmV1cm9w
+			c3ljaG9sb2d5IEZlbGxvdyAgCgpSb2JpbiBIZWlucmljaHMsIFBo
+			LkQuICAKTmV1cm9wc3ljaG9sb2dpc3SGhAJpSQGBbAaShISEDE5T
+			RGljdGlvbmFyeQCUhAFpApKEl5cQTlNQYXJhZ3JhcGhTdHlsZYaS
+			hISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwAAhISEB05TQXJy
+			YXkAlJoMkoSEhAlOU1RleHRUYWIAlIQCQ2YAHIaShKCfADiGkoSg
+			nwBUhpKEoJ8AcIaShKCfAIGMAIaShKCfAIGoAIaShKCfAIHEAIaS
+			hKCfAIHgAIaShKCfAIH8AIaShKCfAIEYAYaShKCfAIE0AYaShKCf
+			AIFQAYaGgQAIhARbMWZdg83MTD2GkoSXlwZOU0ZvbnSGkoSEhAZO
+			U0ZvbnQelJokhAVbMzZjXQYAAAAaAAAA//5MAHUAYwBpAGQAYQBH
+			AHIAYQBuAGQAZQAAAIQBZgyEAWMApAGkAKQAhoaG
+			</data>
 			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
 			<integer>1</integer>
+			<key>useCount</key>
+			<integer>22</integer>
 			<key>uuidString</key>
 			<string>6AC38A87-7748-4116-B270-6408FA86739F</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`skelout</string>
+			<string>,skelout</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2012-08-09T05:45:32Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 LucidaGrande;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 ### NEUROPSYCHOLOGICAL REPORT\
+\
+***Patient:*** %filltext:name=last%, %filltext:name=first%  \
+\
+***Date of Birth:*** %filltext:name=birth date%  \
+\
+***Dates of Evaluation:*** %filltext:name=dates of eval% &amp; %fill:Feedback date% \
+\
+\
+***REFERRAL:*** %filltext:name=first% %filltext:name=last% is %fillpopup:name=article:default=a:an% %filltext:name=age%-year-old %fillpopup:name=Ethnicity Gender:default=Caucasian male:Caucasian female:African American male:African American female% referred by %filltext:name=referral source% for %filltext:name=concerns%.  \
+\
+***PROCEDURES:*** An intake interview was conducted with the patient %fillpart:name=and%and%fillpartend% %fill:GenderPoss% %fillpart:name=other%%filltext:name=other%%fillpartend%. Records from %filltext:name=records% were reviewed. The following neurocognitive tests were administered to the patient: %snippet:ffb% \
+\
+***HISTORY OF PRESENTING PROBLEM:*** The following information was gathered during an intake interview conducted with the patient and %fill:GenderPoss%  %filltext:name=other%.  \
+  \
+***MENTAL STATUS:*** %snippet:msout% \
+\
+\
+***NEUROPSYCHOLOGICAL TEST RESULTS:*** %snippet:,result% \
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f1 \cf0 %fillpart:name=Personality Assessment%
+\f0 ***PERSONALITY ASSESSMENT***
+\f1 %fillpartend%
+\f0 \
+\
+\
+***SUMMARY:***  \
+\
+A final session was held with the patient on %fill:Feedback date%, during which these findings were discussed. %fill:Gender% stated that he understood the results, and asked appropriate questions. Therapy focused on\'85 \
+\
+Thank you for involving us in this patient's care. Please do not hesitate to contact us if you have any further questions.\
+	\
+![][2]  \
+W. Howard Buddin Jr., Ph.D., LP  \
+Neuropsychology Fellow  \
+University of Kansas School of Medicine Wichita  \
+\
+\
+\
+	\
+Robin J. Heinrichs Ph.D., LP  \
+Director of Neuropsychology Laboratory  \
+Neuropsychologist &amp; Assistant Professor  \
+Department of Psychiatry and Behavioral Sciences  \
+University of Kansas School of Medicine Wichita\
+\
+[2]: file:///Users/Howard/Documents/_Howard_onboard/Signatures/Howard_Sig_small.png\
+}</string>
+			</dict>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Report Skeleton Outpatient</string>
 			<key>lastUsed</key>
-			<date>2012-12-08T04:39:28Z</date>
+			<date>2013-07-09T20:10:01Z</date>
 			<key>modificationDate</key>
-			<date>2012-12-12T14:44:46Z</date>
+			<date>2013-07-03T22:13:15Z</date>
 			<key>plainText</key>
-			<string>NEUROPSYCHOLOGICAL EVALUATION
-Name:  Date of Birth:  Date of Intake: 
+			<string>### NEUROPSYCHOLOGICAL REPORT
 
-REFERRAL:
+***Patient:*** %filltext:name=last%, %filltext:name=first%  
 
-PROCEDURES: 
+***Date of Birth:*** %filltext:name=birth date%  
 
-HISTORY OF PRESENTING PROBLEM:
-
-MENTAL STATUS: 
-
-NEUROPSYCHOLOGICAL TEST RESULTS: 
-
-PERSONALITY ASSESSMENT:
-
-SUMMARY:
+***Dates of Evaluation:*** %filltext:name=dates of eval% &amp; %fill:Feedback date% 
 
 
-Thank you for involving us in the care of this patient.</string>
+***REFERRAL:*** %filltext:name=first% %filltext:name=last% is %fillpopup:name=article:default=a:an% %filltext:name=age%-year-old %fillpopup:name=Ethnicity Gender:default=Caucasian male:Caucasian female:African American male:African American female% referred by %filltext:name=referral source% for %filltext:name=concerns%.  
+
+***PROCEDURES:*** An intake interview was conducted with the patient %fillpart:name=and%and%fillpartend% %fill:GenderPoss% %fillpart:name=other%%filltext:name=other%%fillpartend%. Records from %filltext:name=records% were reviewed. The following neurocognitive tests were administered to the patient: %snippet:ffb% 
+
+***HISTORY OF PRESENTING PROBLEM:*** The following information was gathered during an intake interview conducted with the patient and %fill:GenderPoss%  %filltext:name=other%.  
+  
+***MENTAL STATUS:*** %snippet:msout% 
+
+
+***NEUROPSYCHOLOGICAL TEST RESULTS:*** %snippet:,result% 
+
+
+%fillpart:name=Personality Assessment%***PERSONALITY ASSESSMENT***%fillpartend%
+
+
+***SUMMARY:***  
+
+A final session was held with the patient on %fill:Feedback date%, during which these findings were discussed. %fill:Gender% stated that he understood the results, and asked appropriate questions. Therapy focused on… 
+
+Thank you for involving us in this patient's care. Please do not hesitate to contact us if you have any further questions.
+	
+![][2]  
+W. Howard Buddin Jr., Ph.D., LP  
+Neuropsychology Fellow  
+University of Kansas School of Medicine Wichita  
+
+
+
+	
+Robin J. Heinrichs Ph.D., LP  
+Director of Neuropsychology Laboratory  
+Neuropsychologist &amp; Assistant Professor  
+Department of Psychiatry and Behavioral Sciences  
+University of Kansas School of Medicine Wichita
+
+[2]: file:///Users/Howard/Documents/_Howard_onboard/Signatures/Howard_Sig_small.png
+</string>
 			<key>richText</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
-			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK4ETAU5F
-			VVJPUFNZQ0hPTE9HSUNBTCBFVkFMVUFUSU9OCk5hbWU6IOKAqERh
-			dGUgb2YgQmlydGg6IOKAqERhdGUgb2YgSW50YWtlOiAKClJFRkVS
-			UkFMOgoKUFJPQ0VEVVJFUzogCgpISVNUT1JZIE9GIFBSRVNFTlRJ
-			TkcgUFJPQkxFTToKCk1FTlRBTCBTVEFUVVM6IAoKTkVVUk9QU1lD
-			SE9MT0dJQ0FMIFRFU1QgUkVTVUxUUzogCgpQRVJTT05BTElUWSBB
-			U1NFU1NNRU5UOgoKU1VNTUFSWToKCgpUaGFuayB5b3UgZm9yIGlu
-			dm9sdmluZyB1cyBpbiB0aGUgY2FyZSBvZiB0aGlzIHBhdGllbnQu
-			hoQCaUkBHZKEhIQMTlNEaWN0aW9uYXJ5AJSEAWkDkoSWlgdOU0Nv
-			bG9yhpKEhIQHTlNDb2xvcgCUhAFjAYQEZmZmZoPh4GA9g+HgYD2D
-			4eBgPQGGkoSWlhBOU1BhcmFncmFwaFN0eWxlhpKEhIQXTlNNdXRh
-			YmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3JhcGhTdHlsZQCU
-			hARDQ0BTAgCEhIQHTlNBcnJheQCUmQCGgSIKhARbNGZdFBMkg83M
-			TD2GkoSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQelJk4hAVbNTZjXQYA
-			AAAuAAAA//5UAGkAbQBlAHMATgBlAHcAUgBvAG0AYQBuAFAAUwAt
-			AEIAbwBsAGQATQBUAAAAhAFmDJsAmwGbAJsAhoaXAgGShJiZA5KZ
-			kpqSnJKdkqKShKSZLIQFWzQ0Y10GAAAAJAAAAP/+VABpAG0AZQBz
-			AE4AZQB3AFIAbwBtAGEAbgBQAFMATQBUAKQMmwCbAZsAmwCGhpcD
-			BpKEmJkDkpmShJubAZyD4eBgPYPh4GA9g+HgYD0BhpKckoSfnwQA
-			oIEACoQEWzJmXSSDzcxMPYaSopKmhpcEAZKEmJkDkpmShJubAZyD
-			4eBgPYPh4GA9g+HgYD0BhpKckoSfnwQAoIEACqYkg83MTD2GkqKS
-			hKSZJIQFWzM2Y10GAAAAGgAAAP/+TAB1AGMAaQBkAGEARwByAGEA
-			bgBkAGUAAACkDJsAmwGbAJsAhoaXAw+XBAGXAxCXBQGShJiZApKc
-			kqySopKthpcDgckAhg==
+			bmcAhIQITlNPYmplY3QAhZKEhIQPTlNNdXRhYmxlU3RyaW5nAYSE
+			CE5TU3RyaW5nAZSEASuB4gcjIyMgTkVVUk9QU1lDSE9MT0dJQ0FM
+			IFJFUE9SVAoKKioqUGF0aWVudDoqKiogJWZpbGx0ZXh0Om5hbWU9
+			bGFzdCUsICVmaWxsdGV4dDpuYW1lPWZpcnN0JSAgCgoqKipEYXRl
+			IG9mIEJpcnRoOioqKiAlZmlsbHRleHQ6bmFtZT1iaXJ0aCBkYXRl
+			JSAgCgoqKipEYXRlcyBvZiBFdmFsdWF0aW9uOioqKiAlZmlsbHRl
+			eHQ6bmFtZT1kYXRlcyBvZiBldmFsJSAmICVmaWxsOkZlZWRiYWNr
+			IGRhdGUlIAoKCioqKlJFRkVSUkFMOioqKiAlZmlsbHRleHQ6bmFt
+			ZT1maXJzdCUgJWZpbGx0ZXh0Om5hbWU9bGFzdCUgaXMgJWZpbGxw
+			b3B1cDpuYW1lPWFydGljbGU6ZGVmYXVsdD1hOmFuJSAlZmlsbHRl
+			eHQ6bmFtZT1hZ2UlLXllYXItb2xkICVmaWxscG9wdXA6bmFtZT1F
+			dGhuaWNpdHkgR2VuZGVyOmRlZmF1bHQ9Q2F1Y2FzaWFuIG1hbGU6
+			Q2F1Y2FzaWFuIGZlbWFsZTpBZnJpY2FuIEFtZXJpY2FuIG1hbGU6
+			QWZyaWNhbiBBbWVyaWNhbiBmZW1hbGUlIHJlZmVycmVkIGJ5ICVm
+			aWxsdGV4dDpuYW1lPXJlZmVycmFsIHNvdXJjZSUgZm9yICVmaWxs
+			dGV4dDpuYW1lPWNvbmNlcm5zJS4gIAoKKioqUFJPQ0VEVVJFUzoq
+			KiogQW4gaW50YWtlIGludGVydmlldyB3YXMgY29uZHVjdGVkIHdp
+			dGggdGhlIHBhdGllbnQgJWZpbGxwYXJ0Om5hbWU9YW5kJWFuZCVm
+			aWxscGFydGVuZCUgJWZpbGw6R2VuZGVyUG9zcyUgJWZpbGxwYXJ0
+			Om5hbWU9b3RoZXIlJWZpbGx0ZXh0Om5hbWU9b3RoZXIlJWZpbGxw
+			YXJ0ZW5kJS4gUmVjb3JkcyBmcm9tICVmaWxsdGV4dDpuYW1lPXJl
+			Y29yZHMlIHdlcmUgcmV2aWV3ZWQuIFRoZSBmb2xsb3dpbmcgbmV1
+			cm9jb2duaXRpdmUgdGVzdHMgd2VyZSBhZG1pbmlzdGVyZWQgdG8g
+			dGhlIHBhdGllbnQ6ICVzbmlwcGV0OmZmYiUgCgoqKipISVNUT1JZ
+			IE9GIFBSRVNFTlRJTkcgUFJPQkxFTToqKiogVGhlIGZvbGxvd2lu
+			ZyBpbmZvcm1hdGlvbiB3YXMgZ2F0aGVyZWQgZHVyaW5nIGFuIGlu
+			dGFrZSBpbnRlcnZpZXcgY29uZHVjdGVkIHdpdGggdGhlIHBhdGll
+			bnQgYW5kICVmaWxsOkdlbmRlclBvc3MlICAlZmlsbHRleHQ6bmFt
+			ZT1vdGhlciUuICAKICAKKioqTUVOVEFMIFNUQVRVUzoqKiogJXNu
+			aXBwZXQ6bXNvdXQlIAoKCioqKk5FVVJPUFNZQ0hPTE9HSUNBTCBU
+			RVNUIFJFU1VMVFM6KioqICVzbmlwcGV0OixyZXN1bHQlIAoKCiVm
+			aWxscGFydDpuYW1lPVBlcnNvbmFsaXR5IEFzc2Vzc21lbnQlKioq
+			UEVSU09OQUxJVFkgQVNTRVNTTUVOVCoqKiVmaWxscGFydGVuZCUK
+			CgoqKipTVU1NQVJZOioqKiAgCgpBIGZpbmFsIHNlc3Npb24gd2Fz
+			IGhlbGQgd2l0aCB0aGUgcGF0aWVudCBvbiAlZmlsbDpGZWVkYmFj
+			ayBkYXRlJSwgZHVyaW5nIHdoaWNoIHRoZXNlIGZpbmRpbmdzIHdl
+			cmUgZGlzY3Vzc2VkLiAlZmlsbDpHZW5kZXIlIHN0YXRlZCB0aGF0
+			IGhlIHVuZGVyc3Rvb2QgdGhlIHJlc3VsdHMsIGFuZCBhc2tlZCBh
+			cHByb3ByaWF0ZSBxdWVzdGlvbnMuIFRoZXJhcHkgZm9jdXNlZCBv
+			buKApiAKClRoYW5rIHlvdSBmb3IgaW52b2x2aW5nIHVzIGluIHRo
+			aXMgcGF0aWVudCdzIGNhcmUuIFBsZWFzZSBkbyBub3QgaGVzaXRh
+			dGUgdG8gY29udGFjdCB1cyBpZiB5b3UgaGF2ZSBhbnkgZnVydGhl
+			ciBxdWVzdGlvbnMuCgkKIVtdWzJdICAKVy4gSG93YXJkIEJ1ZGRp
+			biBKci4sIFBoLkQuLCBMUCAgCk5ldXJvcHN5Y2hvbG9neSBGZWxs
+			b3cgIApVbml2ZXJzaXR5IG9mIEthbnNhcyBTY2hvb2wgb2YgTWVk
+			aWNpbmUgV2ljaGl0YSAgCgoKCgkKUm9iaW4gSi4gSGVpbnJpY2hz
+			IFBoLkQuLCBMUCAgCkRpcmVjdG9yIG9mIE5ldXJvcHN5Y2hvbG9n
+			eSBMYWJvcmF0b3J5ICAKTmV1cm9wc3ljaG9sb2dpc3QgJiBBc3Np
+			c3RhbnQgUHJvZmVzc29yICAKRGVwYXJ0bWVudCBvZiBQc3ljaGlh
+			dHJ5IGFuZCBCZWhhdmlvcmFsIFNjaWVuY2VzICAKVW5pdmVyc2l0
+			eSBvZiBLYW5zYXMgU2Nob29sIG9mIE1lZGljaW5lIFdpY2hpdGEK
+			ClsyXTogZmlsZTovLy9Vc2Vycy9Ib3dhcmQvRG9jdW1lbnRzL19I
+			b3dhcmRfb25ib2FyZC9TaWduYXR1cmVzL0hvd2FyZF9TaWdfc21h
+			bGwucG5nCoaEAmlJAYF/BJKEhIQMTlNEaWN0aW9uYXJ5AJSEAWkC
+			koSXlxBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhT
+			dHlsZQCUhARDQ0BTAACEhIQHTlNBcnJheQCUmgyShISECU5TVGV4
+			dFRhYgCUhAJDZgAchpKEoJ8AOIaShKCfAFSGkoSgnwBwhpKEoJ8A
+			gYwAhpKEoJ8AgagAhpKEoJ8AgcQAhpKEoJ8AgeAAhpKEoJ8AgfwA
+			hpKEoJ8AgRgBhpKEoJ8AgTQBhpKEoJ8AgVABhoaBAAiEBFsxZl2D
+			zcxMPYaShJeXBk5TRm9udIaShISEBk5TRm9udB6UmiSEBVszNmNd
+			BgAAABoAAAD//kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFm
+			DIQBYwCkAaQApACGhpgCJpKEmZoCkpqShJycAACEnpoMkp+SoZKi
+			kqOSpJKlkqaSp5KokqmSqpKrhoEACKCDzcxMPYaSrJKErpochAVb
+			MjhjXQYAAAAUAAAA//5IAGUAbAB2AGUAdABpAGMAYQCjDKQApAGk
+			AKQAhoaYARyYAg2YAYESA4Y=
 			</data>
 			<key>snippetType</key>
 			<integer>1</integer>
 			<key>useCount</key>
-			<integer>5</integer>
+			<integer>23</integer>
 			<key>uuidString</key>
 			<string>A8F717AC-D229-41BA-B70F-F4FED9C1FECF</string>
 		</dict>
@@ -1395,7 +2056,7 @@ Thank you for involving us in the care of this patient.</string>
 			<key>label</key>
 			<string>reported</string>
 			<key>lastUsed</key>
-			<date>2012-12-13T15:52:06Z</date>
+			<date>2013-07-18T20:43:14Z</date>
 			<key>modificationDate</key>
 			<date>2012-09-27T14:27:43Z</date>
 			<key>plainText</key>
@@ -1403,7 +2064,7 @@ Thank you for involving us in the care of this patient.</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>55</integer>
+			<integer>112</integer>
 			<key>uuidString</key>
 			<string>10D326D3-5EAE-4B5F-B55C-535B035D959D</string>
 		</dict>
@@ -1418,10 +2079,12 @@ Thank you for involving us in the care of this patient.</string>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Results</string>
+			<key>lastUsed</key>
+			<date>2013-06-25T21:29:23Z</date>
 			<key>modificationDate</key>
-			<date>2012-10-05T15:55:00Z</date>
+			<date>2013-06-25T21:29:05Z</date>
 			<key>plainText</key>
-			<string>The patient's premorbid intellectual functioning was derived from a combination of demographic information and %fill:his/her% performance on the TOPF, and was estimated to be in the %fill:TOPF% range. Current intellectual abilities were measured by the WAIS-IV. %| 
+			<string>The patient's premorbid intellectual functioning was estimated using a combination of demographic information and %fill:GenderPoss% current word reading ability with the %fillpopup:name=reading test:default=TOPF:WTAR%, and was %fillpopup:name=Range:Very Superior:Superior:High Average:default=Average:Low Average:Borderline:Mentally Retarded:Extremely Low%. Current intellectual abilities were measured with the %fillpopup:name=IQ Test:default=WAIS-IV:WASI-II% and were %fillpopup:name=Range:Very Superior:Superior:High Average:default=Average:Low Average:Borderline:Mentally Retarded:Extremely Low%. %| 
 
 The patient's memory was assessed with the WMS-IV. 
 
@@ -1431,7 +2094,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
 			<string>2B0CB79A-5A52-4564-BE3D-4BA241C5FEA6</string>
 		</dict>
@@ -1447,7 +2110,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>label</key>
 			<string>stated</string>
 			<key>lastUsed</key>
-			<date>2012-12-12T15:26:23Z</date>
+			<date>2013-07-18T20:44:28Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T13:57:24Z</date>
 			<key>plainText</key>
@@ -1455,43 +2118,85 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>62</integer>
+			<integer>112</integer>
 			<key>uuidString</key>
 			<string>00782C06-50D6-40AF-AEB3-6AEB5620BD7E</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`result</string>
+			<string>sghx</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2012-07-30T16:37:26Z</date>
+			<date>2013-04-09T14:10:50Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Test Results</string>
+			<string>Surgical history</string>
 			<key>lastUsed</key>
-			<date>2012-08-27T13:20:42Z</date>
+			<date>2013-04-09T14:11:21Z</date>
 			<key>modificationDate</key>
-			<date>2012-08-06T21:05:46Z</date>
+			<date>2013-04-09T14:11:13Z</date>
 			<key>plainText</key>
-			<string>The patient's premorbid intellectual functioning was derived from a combination of demographic information and %fill:his/her% performance on the TOPF, and was estimated to be in the %fill:TOPF% range. Current intellectual abilities were measured by the WAIS-IV. %| 
-
-The patient's memory was assessed with the WMS-IV. 
-
-Executive functioning abilities were measured with the DKEFS. 
-
-The patient's sensorimotor abilities were measured using select tests from the HRNB. </string>
+			<string>Surgical history is positive for</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>10</integer>
+			<integer>0</integer>
 			<key>uuidString</key>
-			<string>050BB37D-634B-4929-AD4D-6704F5064531</string>
+			<string>AD35E099-89DE-4044-972E-06D2E63634DE</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`tia</string>
+			<string>tbi</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-03-07T22:30:01Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>TBI</string>
+			<key>lastUsed</key>
+			<date>2013-07-12T18:07:01Z</date>
+			<key>modificationDate</key>
+			<date>2013-07-12T18:07:57Z</date>
+			<key>plainText</key>
+			<string>%fillpopup:name=tbi type:default=Mild:Mild, Uncomplicated:Mild, Complicated:Moderate:Severe% Traumatic Brain Injury</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>4590C4A9-C6DA-4FB4-AA93-C99341E06314</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>thankyou</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-07-03T19:00:13Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Thanks</string>
+			<key>lastUsed</key>
+			<date>2013-07-03T19:01:23Z</date>
+			<key>modificationDate</key>
+			<date>2013-07-03T19:00:13Z</date>
+			<key>plainText</key>
+			<string>Thank you for involving us in the care of this patient.</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>E0EBD623-3ABE-4D26-B5F7-CBF1E0A54B17</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,tia</string>
 			<key>abbreviationMode</key>
 			<integer>2</integer>
 			<key>creationDate</key>
@@ -1503,7 +2208,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>lastUsed</key>
 			<date>2012-08-16T20:42:23Z</date>
 			<key>modificationDate</key>
-			<date>2012-08-16T20:42:10Z</date>
+			<date>2013-01-21T20:12:37Z</date>
 			<key>plainText</key>
 			<string>transient ischemic attack</string>
 			<key>snippetType</key>
@@ -1515,7 +2220,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>`tx</string>
+			<string>,tx</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -1525,15 +2230,15 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>label</key>
 			<string>treatment</string>
 			<key>lastUsed</key>
-			<date>2012-12-13T05:07:02Z</date>
+			<date>2013-07-18T18:44:30Z</date>
 			<key>modificationDate</key>
-			<date>2012-07-30T18:53:21Z</date>
+			<date>2013-01-21T20:12:32Z</date>
 			<key>plainText</key>
 			<string>treatment</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>33</integer>
+			<integer>76</integer>
 			<key>uuidString</key>
 			<string>4AB19C06-A77B-41CD-950C-76D56D4B2665</string>
 		</dict>
@@ -1549,7 +2254,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>label</key>
 			<string>V code</string>
 			<key>lastUsed</key>
-			<date>2012-09-18T18:37:15Z</date>
+			<date>2013-07-16T20:39:06Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-01T23:51:47Z</date>
 			<key>plainText</key>
@@ -1557,7 +2262,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>5</integer>
+			<integer>10</integer>
 			<key>uuidString</key>
 			<string>37C3F816-C519-4EB3-86E1-6BBC07F020A5</string>
 		</dict>
@@ -1573,7 +2278,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>label</key>
 			<string>WAIS-IV</string>
 			<key>lastUsed</key>
-			<date>2012-10-31T19:49:24Z</date>
+			<date>2013-06-18T17:31:04Z</date>
 			<key>modificationDate</key>
 			<date>2012-10-31T19:49:13Z</date>
 			<key>plainText</key>
@@ -1581,7 +2286,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>1</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
 			<string>5612E2B5-E9AE-4B99-8551-759BEE34AB89</string>
 		</dict>
@@ -1597,7 +2302,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>label</key>
 			<string>WASI-II</string>
 			<key>lastUsed</key>
-			<date>2012-10-31T19:49:52Z</date>
+			<date>2013-07-17T15:34:51Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T21:06:06Z</date>
 			<key>plainText</key>
@@ -1605,13 +2310,13 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>4</integer>
+			<integer>11</integer>
 			<key>uuidString</key>
 			<string>4AA60DD9-E207-4847-B86D-B011F48ABECE</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>wms</string>
+			<string>,wms</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -1621,15 +2326,15 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>label</key>
 			<string>WMS-IV</string>
 			<key>lastUsed</key>
-			<date>2012-10-31T19:48:04Z</date>
+			<date>2013-07-17T15:35:26Z</date>
 			<key>modificationDate</key>
-			<date>2012-07-31T21:05:49Z</date>
+			<date>2013-02-14T16:18:03Z</date>
 			<key>plainText</key>
 			<string>Wechsler Memory Scale – IV (WMS-IV)</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>5</integer>
+			<integer>10</integer>
 			<key>uuidString</key>
 			<string>999820BA-4267-403E-8DBA-58C8F4E9CC62</string>
 		</dict>
@@ -1645,7 +2350,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>label</key>
 			<string>WNL</string>
 			<key>lastUsed</key>
-			<date>2012-08-20T15:09:50Z</date>
+			<date>2013-07-03T20:00:09Z</date>
 			<key>modificationDate</key>
 			<date>2012-08-06T14:45:18Z</date>
 			<key>plainText</key>
@@ -1653,7 +2358,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>3</integer>
+			<integer>5</integer>
 			<key>uuidString</key>
 			<string>2B863206-B2FB-4523-A484-9F13844A6EEA</string>
 		</dict>
@@ -1680,6 +2385,30 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<integer>2</integer>
 			<key>uuidString</key>
 			<string>B1AA2984-B5B1-45C7-A05C-BF41944848CB</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>wtar</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-02-13T15:43:06Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>WTAR</string>
+			<key>lastUsed</key>
+			<date>2013-06-10T17:45:41Z</date>
+			<key>modificationDate</key>
+			<date>2013-02-13T15:43:31Z</date>
+			<key>plainText</key>
+			<string>Wechsler Test of Adult Reading (WTAR)</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>5</integer>
+			<key>uuidString</key>
+			<string>29CD1444-7E98-4761-8FE8-FF8E873CC176</string>
 		</dict>
 	</array>
 </dict>
