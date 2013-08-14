@@ -13,6 +13,124 @@
 	<array>
 		<dict>
 			<key>abbreviation</key>
+			<string>,rf</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-07-24T18:27:30Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Range functioning</string>
+			<key>lastUsed</key>
+			<date>2013-07-24T18:28:13Z</date>
+			<key>modificationDate</key>
+			<date>2013-07-24T18:27:30Z</date>
+			<key>plainText</key>
+			<string>range of functioning</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>E4C2A249-50DA-47AD-8B38-D0F21EE6BE01</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,sup</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-07-24T18:26:52Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Superior</string>
+			<key>lastUsed</key>
+			<date>2013-07-24T18:27:22Z</date>
+			<key>modificationDate</key>
+			<date>2013-07-24T18:27:17Z</date>
+			<key>plainText</key>
+			<string>Superior</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>5F83EA50-AD88-4119-8318-A6C834348B70</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>havg</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-07-22T18:30:20Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>High Average</string>
+			<key>lastUsed</key>
+			<date>2013-07-24T18:28:28Z</date>
+			<key>modificationDate</key>
+			<date>2013-07-22T18:30:35Z</date>
+			<key>plainText</key>
+			<string>High Average</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>5A61276D-59C1-4A46-949B-A572B7384EFB</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>lavg</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-07-22T18:29:37Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Low Average</string>
+			<key>modificationDate</key>
+			<date>2013-07-22T18:29:50Z</date>
+			<key>plainText</key>
+			<string>Low Average</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>55088F2C-5632-4DDA-9ABC-3BC473C6CBF7</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>mmr</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-07-22T18:28:29Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Mentally Retarded</string>
+			<key>lastUsed</key>
+			<date>2013-07-22T18:33:51Z</date>
+			<key>modificationDate</key>
+			<date>2013-07-22T18:28:48Z</date>
+			<key>plainText</key>
+			<string>Mentally Retarded</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>9966F095-E6A5-462E-8E8A-9FDE0456C290</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
 			<string>defef</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
@@ -55,7 +173,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>10</integer>
+			<integer>11</integer>
 			<key>uuidString</key>
 			<string>7AF366FF-5F22-49FC-BDC7-6D2A7FA2F107</string>
 		</dict>
@@ -187,7 +305,7 @@
 			<key>label</key>
 			<string>Alzheimer's</string>
 			<key>lastUsed</key>
-			<date>2013-07-18T19:39:58Z</date>
+			<date>2013-07-24T18:24:10Z</date>
 			<key>modificationDate</key>
 			<date>2013-01-21T20:13:59Z</date>
 			<key>plainText</key>
@@ -195,7 +313,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>14</integer>
+			<integer>17</integer>
 			<key>uuidString</key>
 			<string>833915EB-8517-49D2-88FC-B58CF089E399</string>
 		</dict>
@@ -211,7 +329,7 @@
 			<key>label</key>
 			<string>Approximately</string>
 			<key>lastUsed</key>
-			<date>2013-06-28T13:35:03Z</date>
+			<date>2013-08-01T14:58:44Z</date>
 			<key>modificationDate</key>
 			<date>2012-09-27T14:02:37Z</date>
 			<key>plainText</key>
@@ -219,7 +337,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>41</integer>
+			<integer>43</integer>
 			<key>uuidString</key>
 			<string>85D85217-E196-4963-BDA3-ED0EA4CC24F8</string>
 		</dict>
@@ -235,7 +353,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-06-13T13:30:15Z</date>
+			<date>2013-08-01T15:42:41Z</date>
 			<key>modificationDate</key>
 			<date>2013-01-21T20:14:05Z</date>
 			<key>plainText</key>
@@ -243,7 +361,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>45</integer>
+			<integer>51</integer>
 			<key>uuidString</key>
 			<string>95B5061F-7CDA-440E-8646-E595DB6643E0</string>
 		</dict>
@@ -259,7 +377,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-07-17T15:33:15Z</date>
+			<date>2013-08-03T16:21:43Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T14:34:33Z</date>
 			<key>plainText</key>
@@ -267,7 +385,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>66</integer>
+			<integer>69</integer>
 			<key>uuidString</key>
 			<string>BFC1FC62-FC87-4DB9-B63B-A65BEDFE4CB4</string>
 		</dict>
@@ -294,30 +412,6 @@
 			<integer>3</integer>
 			<key>uuidString</key>
 			<string>522A02CC-E789-49FE-9D0B-D80F1502A774</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>,Nl</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2013-03-07T02:21:04Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string>Cap Neuropsychological</string>
-			<key>lastUsed</key>
-			<date>2013-06-28T13:17:40Z</date>
-			<key>modificationDate</key>
-			<date>2013-03-07T02:21:28Z</date>
-			<key>plainText</key>
-			<string>Neuropsychological</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>17</integer>
-			<key>uuidString</key>
-			<string>4A296101-81F1-4B45-A380-93A160EEF768</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -387,7 +481,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>3</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
 			<string>8B2952B3-724D-4B8E-9BEA-F25090772584</string>
 		</dict>
@@ -531,7 +625,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>6</integer>
+			<integer>7</integer>
 			<key>uuidString</key>
 			<string>64FC6169-473E-4B04-A622-B7A3297043AB</string>
 		</dict>
@@ -619,7 +713,7 @@
 			<key>label</key>
 			<string>diagnosis</string>
 			<key>lastUsed</key>
-			<date>2013-07-17T21:20:09Z</date>
+			<date>2013-08-01T15:30:25Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T20:45:29Z</date>
 			<key>plainText</key>
@@ -627,7 +721,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>65</integer>
+			<integer>67</integer>
 			<key>uuidString</key>
 			<string>FEDB959D-37E7-4859-A2C7-7416091C6BDD</string>
 		</dict>
@@ -809,7 +903,7 @@
 			<key>label</key>
 			<string>HIPAA</string>
 			<key>lastUsed</key>
-			<date>2013-07-19T19:32:18Z</date>
+			<date>2013-08-06T07:56:49Z</date>
 			<key>modificationDate</key>
 			<date>2013-03-22T02:37:59Z</date>
 			<key>plainText</key>
@@ -817,7 +911,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>68</integer>
+			<integer>72</integer>
 			<key>uuidString</key>
 			<string>68C72AC4-85F2-49E9-9A1C-F682C5E0C980</string>
 		</dict>
@@ -833,7 +927,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-07-18T21:02:53Z</date>
+			<date>2013-08-01T16:59:00Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T14:42:51Z</date>
 			<key>plainText</key>
@@ -841,7 +935,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>151</integer>
+			<integer>167</integer>
 			<key>uuidString</key>
 			<string>7DB90D60-3CC4-48A9-BC48-7CA5D27DCC3E</string>
 		</dict>
@@ -1097,7 +1191,7 @@
 			<key>label</key>
 			<string>Med records</string>
 			<key>lastUsed</key>
-			<date>2013-07-18T19:53:33Z</date>
+			<date>2013-07-24T19:27:06Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-27T22:49:24Z</date>
 			<key>plainText</key>
@@ -1105,7 +1199,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>28</integer>
+			<integer>30</integer>
 			<key>uuidString</key>
 			<string>F1C35E2D-7FFC-4B66-A00F-1FA4C18E7C0B</string>
 		</dict>
@@ -1121,7 +1215,7 @@
 			<key>label</key>
 			<string>medical</string>
 			<key>lastUsed</key>
-			<date>2013-07-19T19:39:02Z</date>
+			<date>2013-08-01T14:49:30Z</date>
 			<key>modificationDate</key>
 			<date>2013-07-19T19:38:52Z</date>
 			<key>plainText</key>
@@ -1129,7 +1223,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>99</integer>
+			<integer>107</integer>
 			<key>uuidString</key>
 			<string>6FEC9354-5579-494A-9FC3-C48888B1A77E</string>
 		</dict>
@@ -1318,7 +1412,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>neurocognitive</string>
 			<key>lastUsed</key>
-			<date>2013-07-17T15:32:47Z</date>
+			<date>2013-08-01T15:45:42Z</date>
 			<key>modificationDate</key>
 			<date>2013-06-28T14:17:39Z</date>
 			<key>plainText</key>
@@ -1326,37 +1420,13 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>35</integer>
+			<integer>37</integer>
 			<key>uuidString</key>
 			<string>87708FF2-78CF-4201-9C88-F86A322BAA80</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,nl</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2012-11-10T22:41:03Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string>Neuropsychological</string>
-			<key>lastUsed</key>
-			<date>2013-07-19T05:08:31Z</date>
-			<key>modificationDate</key>
-			<date>2013-03-07T02:20:56Z</date>
-			<key>plainText</key>
-			<string>neuropsychological</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>87</integer>
-			<key>uuidString</key>
-			<string>C10DC7A0-26FF-48A9-81BB-8A06FD2083A9</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>,nt</string>
+			<string>nt</string>
 			<key>abbreviationMode</key>
 			<integer>2</integer>
 			<key>creationDate</key>
@@ -1366,15 +1436,15 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>Neuropsychologist</string>
 			<key>lastUsed</key>
-			<date>2013-07-20T03:26:22Z</date>
+			<date>2013-08-05T15:51:36Z</date>
 			<key>modificationDate</key>
-			<date>2012-12-16T19:52:28Z</date>
+			<date>2013-07-22T18:32:49Z</date>
 			<key>plainText</key>
 			<string>neuropsychologist</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>54</integer>
+			<integer>60</integer>
 			<key>uuidString</key>
 			<string>2A63615B-61AE-40DE-8F5F-7910A52CE630</string>
 		</dict>
@@ -1390,15 +1460,15 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>Neuropsychology</string>
 			<key>lastUsed</key>
-			<date>2013-07-20T03:21:20Z</date>
+			<date>2013-08-02T20:07:55Z</date>
 			<key>modificationDate</key>
-			<date>2012-10-30T15:55:17Z</date>
+			<date>2013-07-24T14:24:49Z</date>
 			<key>plainText</key>
 			<string>neuropsychology</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>142</integer>
+			<integer>151</integer>
 			<key>uuidString</key>
 			<string>13074B9B-472F-4888-8A71-311DCA81C31A</string>
 		</dict>
@@ -1438,7 +1508,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>noted</string>
 			<key>lastUsed</key>
-			<date>2013-07-18T20:37:53Z</date>
+			<date>2013-07-24T15:30:17Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T13:45:33Z</date>
 			<key>plainText</key>
@@ -1446,7 +1516,7 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>25</integer>
+			<integer>28</integer>
 			<key>uuidString</key>
 			<string>833BF66E-2719-41CB-80D1-D6BD81A67216</string>
 		</dict>
@@ -1462,7 +1532,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-07-19T05:57:36Z</date>
+			<date>2013-08-01T16:58:58Z</date>
 			<key>modificationDate</key>
 			<date>2013-02-20T16:17:41Z</date>
 			<key>plainText</key>
@@ -1470,7 +1540,7 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>354</integer>
+			<integer>390</integer>
 			<key>uuidString</key>
 			<string>DCDC8438-7D10-469D-973E-FB6188977F6B</string>
 		</dict>
@@ -1510,7 +1580,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-06-27T22:57:23Z</date>
+			<date>2013-07-24T20:48:17Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-30T16:34:15Z</date>
 			<key>plainText</key>
@@ -1518,7 +1588,7 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>87</integer>
+			<integer>94</integer>
 			<key>uuidString</key>
 			<string>ACD795B3-4639-452F-9410-F892374B05F1</string>
 		</dict>
@@ -1534,7 +1604,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-07-03T18:50:52Z</date>
+			<date>2013-08-06T01:28:14Z</date>
 			<key>modificationDate</key>
 			<date>2013-07-12T18:09:54Z</date>
 			<key>plainText</key>
@@ -1542,7 +1612,7 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>61</integer>
+			<integer>67</integer>
 			<key>uuidString</key>
 			<string>D1362840-8930-4574-BEAF-97EB7291E9B9</string>
 		</dict>
@@ -1638,7 +1708,7 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>3</integer>
 			<key>uuidString</key>
 			<string>D0F3274F-7F90-4A53-8C7B-E3F8F68B0BD0</string>
 		</dict>
@@ -1654,7 +1724,7 @@ Axis V:  	GAF =
 			<key>label</key>
 			<string>Psychiatric</string>
 			<key>lastUsed</key>
-			<date>2013-07-03T16:43:16Z</date>
+			<date>2013-08-07T07:22:47Z</date>
 			<key>modificationDate</key>
 			<date>2013-06-28T13:21:05Z</date>
 			<key>plainText</key>
@@ -1662,7 +1732,7 @@ Axis V:  	GAF =
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>30</integer>
+			<integer>32</integer>
 			<key>uuidString</key>
 			<string>61EE1AA2-AC52-4607-A1E3-7953B9785472</string>
 		</dict>
@@ -1747,7 +1817,7 @@ Neuropsychologist}</string>
 			<key>lastUsed</key>
 			<date>2013-07-18T18:47:32Z</date>
 			<key>modificationDate</key>
-			<date>2013-07-19T20:00:28Z</date>
+			<date>2013-07-20T04:03:11Z</date>
 			<key>plainText</key>
 			<string>## KUSM-W Neuropsychology Consultation ##
 
@@ -1842,7 +1912,7 @@ Neuropsychologist</string>
 			<key>snippetType</key>
 			<integer>1</integer>
 			<key>useCount</key>
-			<integer>22</integer>
+			<integer>23</integer>
 			<key>uuidString</key>
 			<string>6AC38A87-7748-4116-B270-6408FA86739F</string>
 		</dict>
@@ -1904,11 +1974,6 @@ University of Kansas School of Medicine Wichita  \
 \
 \
 	\
-Robin J. Heinrichs Ph.D., LP  \
-Director of Neuropsychology Laboratory  \
-Neuropsychologist &amp; Assistant Professor  \
-Department of Psychiatry and Behavioral Sciences  \
-University of Kansas School of Medicine Wichita\
 \
 [2]: file:///Users/Howard/Documents/_Howard_onboard/Signatures/Howard_Sig_small.png\
 }</string>
@@ -1918,9 +1983,9 @@ University of Kansas School of Medicine Wichita\
 			<key>label</key>
 			<string>Report Skeleton Outpatient</string>
 			<key>lastUsed</key>
-			<date>2013-07-09T20:10:01Z</date>
+			<date>2013-07-29T19:52:29Z</date>
 			<key>modificationDate</key>
-			<date>2013-07-03T22:13:15Z</date>
+			<date>2013-07-31T15:41:15Z</date>
 			<key>plainText</key>
 			<string>### NEUROPSYCHOLOGICAL REPORT
 
@@ -1960,11 +2025,6 @@ University of Kansas School of Medicine Wichita
 
 
 	
-Robin J. Heinrichs Ph.D., LP  
-Director of Neuropsychology Laboratory  
-Neuropsychologist &amp; Assistant Professor  
-Department of Psychiatry and Behavioral Sciences  
-University of Kansas School of Medicine Wichita
 
 [2]: file:///Users/Howard/Documents/_Howard_onboard/Signatures/Howard_Sig_small.png
 </string>
@@ -1972,7 +2032,7 @@ University of Kansas School of Medicine Wichita
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
 			bmcAhIQITlNPYmplY3QAhZKEhIQPTlNNdXRhYmxlU3RyaW5nAYSE
-			CE5TU3RyaW5nAZSEASuB4gcjIyMgTkVVUk9QU1lDSE9MT0dJQ0FM
+			CE5TU3RyaW5nAZSEASuBDQcjIyMgTkVVUk9QU1lDSE9MT0dJQ0FM
 			IFJFUE9SVAoKKioqUGF0aWVudDoqKiogJWZpbGx0ZXh0Om5hbWU9
 			bGFzdCUsICVmaWxsdGV4dDpuYW1lPWZpcnN0JSAgCgoqKipEYXRl
 			IG9mIEJpcnRoOioqKiAlZmlsbHRleHQ6bmFtZT1iaXJ0aCBkYXRl
@@ -2016,31 +2076,25 @@ University of Kansas School of Medicine Wichita
 			ciBxdWVzdGlvbnMuCgkKIVtdWzJdICAKVy4gSG93YXJkIEJ1ZGRp
 			biBKci4sIFBoLkQuLCBMUCAgCk5ldXJvcHN5Y2hvbG9neSBGZWxs
 			b3cgIApVbml2ZXJzaXR5IG9mIEthbnNhcyBTY2hvb2wgb2YgTWVk
-			aWNpbmUgV2ljaGl0YSAgCgoKCgkKUm9iaW4gSi4gSGVpbnJpY2hz
-			IFBoLkQuLCBMUCAgCkRpcmVjdG9yIG9mIE5ldXJvcHN5Y2hvbG9n
-			eSBMYWJvcmF0b3J5ICAKTmV1cm9wc3ljaG9sb2dpc3QgJiBBc3Np
-			c3RhbnQgUHJvZmVzc29yICAKRGVwYXJ0bWVudCBvZiBQc3ljaGlh
-			dHJ5IGFuZCBCZWhhdmlvcmFsIFNjaWVuY2VzICAKVW5pdmVyc2l0
-			eSBvZiBLYW5zYXMgU2Nob29sIG9mIE1lZGljaW5lIFdpY2hpdGEK
-			ClsyXTogZmlsZTovLy9Vc2Vycy9Ib3dhcmQvRG9jdW1lbnRzL19I
-			b3dhcmRfb25ib2FyZC9TaWduYXR1cmVzL0hvd2FyZF9TaWdfc21h
-			bGwucG5nCoaEAmlJAYF/BJKEhIQMTlNEaWN0aW9uYXJ5AJSEAWkC
-			koSXlxBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhT
-			dHlsZQCUhARDQ0BTAACEhIQHTlNBcnJheQCUmgyShISECU5TVGV4
-			dFRhYgCUhAJDZgAchpKEoJ8AOIaShKCfAFSGkoSgnwBwhpKEoJ8A
-			gYwAhpKEoJ8AgagAhpKEoJ8AgcQAhpKEoJ8AgeAAhpKEoJ8AgfwA
-			hpKEoJ8AgRgBhpKEoJ8AgTQBhpKEoJ8AgVABhoaBAAiEBFsxZl2D
-			zcxMPYaShJeXBk5TRm9udIaShISEBk5TRm9udB6UmiSEBVszNmNd
-			BgAAABoAAAD//kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFm
-			DIQBYwCkAaQApACGhpgCJpKEmZoCkpqShJycAACEnpoMkp+SoZKi
-			kqOSpJKlkqaSp5KokqmSqpKrhoEACKCDzcxMPYaSrJKErpochAVb
-			MjhjXQYAAAAUAAAA//5IAGUAbAB2AGUAdABpAGMAYQCjDKQApAGk
-			AKQAhoaYARyYAg2YAYESA4Y=
+			aWNpbmUgV2ljaGl0YSAgCgoKCgkKClsyXTogZmlsZTovLy9Vc2Vy
+			cy9Ib3dhcmQvRG9jdW1lbnRzL19Ib3dhcmRfb25ib2FyZC9TaWdu
+			YXR1cmVzL0hvd2FyZF9TaWdfc21hbGwucG5nCoaEAmlJAYF/BJKE
+			hIQMTlNEaWN0aW9uYXJ5AJSEAWkCkoSXlxBOU1BhcmFncmFwaFN0
+			eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCUhARDQ0BTAACEhIQH
+			TlNBcnJheQCUmgyShISECU5TVGV4dFRhYgCUhAJDZgAchpKEoJ8A
+			OIaShKCfAFSGkoSgnwBwhpKEoJ8AgYwAhpKEoJ8AgagAhpKEoJ8A
+			gcQAhpKEoJ8AgeAAhpKEoJ8AgfwAhpKEoJ8AgRgBhpKEoJ8AgTQB
+			hpKEoJ8AgVABhoaBAAiEBFsxZl2DzcxMPYaShJeXBk5TRm9udIaS
+			hISEBk5TRm9udB6UmiSEBVszNmNdBgAAABoAAAD//kwAdQBjAGkA
+			ZABhAEcAcgBhAG4AZABlAAAAhAFmDIQBYwCkAaQApACGhpgCJpKE
+			mZoCkpqShJycAACEnpoMkp+SoZKikqOSpJKlkqaSp5KokqmSqpKr
+			hoEACKCDzcxMPYaSrJKErpochAVbMjhjXQYAAAAUAAAA//5IAGUA
+			bAB2AGUAdABpAGMAYQCjDKQApAGkAKQAhoaYARyYAg2YAYE9AoY=
 			</data>
 			<key>snippetType</key>
 			<integer>1</integer>
 			<key>useCount</key>
-			<integer>23</integer>
+			<integer>26</integer>
 			<key>uuidString</key>
 			<string>A8F717AC-D229-41BA-B70F-F4FED9C1FECF</string>
 		</dict>
@@ -2056,7 +2110,7 @@ University of Kansas School of Medicine Wichita
 			<key>label</key>
 			<string>reported</string>
 			<key>lastUsed</key>
-			<date>2013-07-18T20:43:14Z</date>
+			<date>2013-08-01T14:57:13Z</date>
 			<key>modificationDate</key>
 			<date>2012-09-27T14:27:43Z</date>
 			<key>plainText</key>
@@ -2064,7 +2118,7 @@ University of Kansas School of Medicine Wichita
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>112</integer>
+			<integer>122</integer>
 			<key>uuidString</key>
 			<string>10D326D3-5EAE-4B5F-B55C-535B035D959D</string>
 		</dict>
@@ -2110,7 +2164,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>label</key>
 			<string>stated</string>
 			<key>lastUsed</key>
-			<date>2013-07-18T20:44:28Z</date>
+			<date>2013-08-03T17:14:05Z</date>
 			<key>modificationDate</key>
 			<date>2012-07-31T13:57:24Z</date>
 			<key>plainText</key>
@@ -2118,7 +2172,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>112</integer>
+			<integer>125</integer>
 			<key>uuidString</key>
 			<string>00782C06-50D6-40AF-AEB3-6AEB5620BD7E</string>
 		</dict>
@@ -2158,7 +2212,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>label</key>
 			<string>TBI</string>
 			<key>lastUsed</key>
-			<date>2013-07-12T18:07:01Z</date>
+			<date>2013-08-01T14:44:00Z</date>
 			<key>modificationDate</key>
 			<date>2013-07-12T18:07:57Z</date>
 			<key>plainText</key>
@@ -2166,7 +2220,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>uuidString</key>
 			<string>4590C4A9-C6DA-4FB4-AA93-C99341E06314</string>
 		</dict>
@@ -2230,7 +2284,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>label</key>
 			<string>treatment</string>
 			<key>lastUsed</key>
-			<date>2013-07-18T18:44:30Z</date>
+			<date>2013-07-29T15:58:31Z</date>
 			<key>modificationDate</key>
 			<date>2013-01-21T20:12:32Z</date>
 			<key>plainText</key>
@@ -2238,7 +2292,7 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>76</integer>
+			<integer>78</integer>
 			<key>uuidString</key>
 			<string>4AB19C06-A77B-41CD-950C-76D56D4B2665</string>
 		</dict>
@@ -2340,30 +2394,6 @@ The patient's sensorimotor abilities were measured using select tests from the H
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>wwnl</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2012-08-06T14:44:49Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string>WNL</string>
-			<key>lastUsed</key>
-			<date>2013-07-03T20:00:09Z</date>
-			<key>modificationDate</key>
-			<date>2012-08-06T14:45:18Z</date>
-			<key>plainText</key>
-			<string>within normal limits (WNL)</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>5</integer>
-			<key>uuidString</key>
-			<string>2B863206-B2FB-4523-A484-9F13844A6EEA</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
 			<string>wrt4</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
@@ -2409,6 +2439,54 @@ The patient's sensorimotor abilities were measured using select tests from the H
 			<integer>5</integer>
 			<key>uuidString</key>
 			<string>29CD1444-7E98-4761-8FE8-FF8E873CC176</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>nl</string>
+			<key>abbreviationMode</key>
+			<integer>2</integer>
+			<key>creationDate</key>
+			<date>2013-03-07T02:21:04Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Neuropsychological</string>
+			<key>lastUsed</key>
+			<date>2013-08-05T15:51:16Z</date>
+			<key>modificationDate</key>
+			<date>2013-07-22T18:32:15Z</date>
+			<key>plainText</key>
+			<string>neuropsychological</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>21</integer>
+			<key>uuidString</key>
+			<string>4A296101-81F1-4B45-A380-93A160EEF768</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>wwnl</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-08-06T14:44:49Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>WNL</string>
+			<key>lastUsed</key>
+			<date>2013-07-03T20:00:09Z</date>
+			<key>modificationDate</key>
+			<date>2012-08-06T14:45:18Z</date>
+			<key>plainText</key>
+			<string>within normal limits (WNL)</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>5</integer>
+			<key>uuidString</key>
+			<string>2B863206-B2FB-4523-A484-9F13844A6EEA</string>
 		</dict>
 	</array>
 </dict>
