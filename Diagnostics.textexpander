@@ -8,6 +8,8 @@
 		<integer>0</integer>
 		<key>groupName</key>
 		<string>Diagnostics</string>
+		<key>notes</key>
+		<string></string>
 	</dict>
 	<key>snippetsTE2</key>
 	<array>
@@ -17,11 +19,11 @@
 			<key>abbreviationMode</key>
 			<integer>2</integer>
 			<key>creationDate</key>
-			<date>2012-08-16T20:41:50Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>TIA</string>
 			<key>modificationDate</key>
-			<date>2013-01-21T20:12:37Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>transient ischemic attack</string>
 			<key>snippetType</key>
@@ -35,11 +37,11 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2013-03-07T22:30:01Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>TBI</string>
 			<key>modificationDate</key>
-			<date>2014-05-21T01:18:04Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>%fillpart:name=optional part 2:default=yes%%fillpopup:name=tbi type:default=Mild:Mild, Uncomplicated:Mild, Complicated:Moderate:Severe%%fillpartend% Traumatic Brain Injury</string>
 			<key>snippetType</key>
@@ -53,11 +55,11 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2013-12-06T16:01:22Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>PTSD</string>
 			<key>modificationDate</key>
-			<date>2014-10-28T04:06:24Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>Post Traumatic Stress %snippet:,dis%</string>
 			<key>snippetType</key>
@@ -71,11 +73,11 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2012-09-27T14:49:12Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>Myocardial Infarction</string>
 			<key>modificationDate</key>
-			<date>2013-08-27T03:54:57Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>myocardial infarction</string>
 			<key>snippetType</key>
@@ -85,33 +87,15 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>adhd</string>
+			<string>az</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2012-07-31T20:44:39Z</date>
-			<key>label</key>
-			<string>ADHD</string>
-			<key>modificationDate</key>
-			<date>2015-01-06T22:04:59Z</date>
-			<key>plainText</key>
-			<string>%fillpopup:name=code:314.01 (F 90.2):314.00 (F 90.0):314.01 (F 90.1)%Attention Deficit/Hyperactivity Disorder%fillpart:name=subType%%fillpopup:name=ADHD Subtype:default=, Predominately inattentive presentation:, Predominately hyperactive/impulsive presentation:, Combined presentation%%fillpartend%%fillpopup:name=severity:, Mild:, Moderate:, Severe%%fillpart:name=remission%, In partial remission%fillpartend% </string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>uuidString</key>
-			<string>334787DA-155E-4A18-B2BA-EDAEDEC99D08</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>,az</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2013-08-27T03:51:07Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>Alzheimer's</string>
 			<key>modificationDate</key>
-			<date>2013-08-27T03:51:24Z</date>
+			<date>2017-04-20T03:16:35Z</date>
 			<key>plainText</key>
 			<string>Alzheimer's</string>
 			<key>snippetType</key>
@@ -121,33 +105,15 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,dat</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2012-07-31T20:38:54Z</date>
-			<key>label</key>
-			<string>Alzheimer's Disease</string>
-			<key>modificationDate</key>
-			<date>2014-08-25T14:53:45Z</date>
-			<key>plainText</key>
-			<string>Dementia of the %snippet:,az% Type</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>uuidString</key>
-			<string>833915EB-8517-49D2-88FC-B58CF089E399</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
 			<string>cabg</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2012-08-29T14:38:36Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>CABG</string>
 			<key>modificationDate</key>
-			<date>2014-08-25T14:53:17Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>Coronary Artery Bypass Graft (CABG)</string>
 			<key>snippetType</key>
@@ -157,33 +123,15 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,cdns</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2013-01-07T16:12:11Z</date>
-			<key>label</key>
-			<string>Cog NOS</string>
-			<key>modificationDate</key>
-			<date>2014-10-28T04:06:59Z</date>
-			<key>plainText</key>
-			<string>Cognitive %snippet:,dis% %snippet:,nots%</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>uuidString</key>
-			<string>E8F8EC00-E0F0-49B8-A119-6404E5F88E2F</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>,ftd</string>
+			<string>ftd</string>
 			<key>abbreviationMode</key>
 			<integer>2</integer>
 			<key>creationDate</key>
-			<date>2013-06-10T21:19:14Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>Frontotemp Dem</string>
 			<key>modificationDate</key>
-			<date>2013-06-10T21:20:07Z</date>
+			<date>2017-04-20T03:15:34Z</date>
 			<key>plainText</key>
 			<string>frontotemporal dementia</string>
 			<key>snippetType</key>
@@ -193,15 +141,15 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,ld</string>
+			<string>ld</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2014-02-20T19:59:58Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>Learning Disability</string>
 			<key>modificationDate</key>
-			<date>2014-02-20T20:00:29Z</date>
+			<date>2017-04-20T03:15:40Z</date>
 			<key>plainText</key>
 			<string>specific learning disability</string>
 			<key>snippetType</key>
@@ -215,14 +163,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2013-06-28T13:22:25Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>Maj Dep</string>
 			<key>modificationDate</key>
-			<date>2015-06-08T21:02:10Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
-			<string>Major Depressive %snippet:,dis%,%filltop%%fillpart:name=diagnostic only:default=no% %fillpopup:name=episode:default=single episode:recurrent%, %snippet:,ss% %fillpartend%
-</string>
+			<string>296.%fillpopup:name=CPT1:2:3%%fillpopup:name=CPT2:1:2:3% (F3%fillpopup:name=CPT1:2:3%.%fillpopup:name=CPT3:0:1:2%) Major Depressive %snippet:,dis%, %fillpopup:name=freq:Single Episode:Recurrent%, %fillpopup:name=degree:default=Mild:Moderate:Severe%%fillpartend%</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
@@ -230,35 +177,18 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>mmr</string>
+			<string>codemci</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2013-07-22T18:28:29Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
-			<string>Mentally Retarded</string>
+			<string>Mild Cog Impairment Coding</string>
 			<key>modificationDate</key>
-			<date>2013-07-22T18:28:48Z</date>
+			<date>2017-05-04T18:15:33Z</date>
 			<key>plainText</key>
-			<string>Mentally Retarded</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>uuidString</key>
-			<string>9966F095-E6A5-462E-8E8A-9FDE0456C290</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>,mci</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2013-01-21T19:29:47Z</date>
-			<key>label</key>
-			<string>Mild Cog Impairment</string>
-			<key>modificationDate</key>
-			<date>2013-01-21T19:30:14Z</date>
-			<key>plainText</key>
-			<string>Mild Cognitive Impairment</string>
+			<string>331.83 (G31.84) Mild Cognitive Impairment, so stated, due to %fillpopup:name=mci cause:Alzheimer’s Disease:Frontolobar Degeneration:default=Vascular Disease:Traumatic Brain Injury%
+* %snippet:codedem%</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
@@ -270,11 +200,11 @@
 			<key>abbreviationMode</key>
 			<integer>2</integer>
 			<key>creationDate</key>
-			<date>2013-03-11T13:52:22Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>Neurocognitive</string>
 			<key>modificationDate</key>
-			<date>2014-07-28T20:19:43Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>neurocognitive</string>
 			<key>snippetType</key>
@@ -288,11 +218,11 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2012-07-27T14:10:12Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string></string>
 			<key>modificationDate</key>
-			<date>2013-01-21T20:13:20Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>Not Otherwise Specified</string>
 			<key>snippetType</key>
@@ -306,11 +236,11 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2013-10-10T01:16:20Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>Concussion</string>
 			<key>modificationDate</key>
-			<date>2014-07-22T06:55:40Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>concussion</string>
 			<key>snippetType</key>
@@ -320,17 +250,17 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,copd</string>
+			<string>copd</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2012-08-06T19:25:17Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>COPD</string>
 			<key>modificationDate</key>
-			<date>2014-08-25T14:52:58Z</date>
+			<date>2017-04-20T03:15:34Z</date>
 			<key>plainText</key>
-			<string>Chronic Obstructive Pulmonary %snippet:,dis% (COPD)</string>
+			<string>Chronic Obstructive Pulmonary Disease (COPD)</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
@@ -338,15 +268,15 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,cva</string>
+			<string>cva</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2012-08-13T19:59:26Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>CVA</string>
 			<key>modificationDate</key>
-			<date>2013-02-18T21:29:29Z</date>
+			<date>2017-04-20T03:15:34Z</date>
 			<key>plainText</key>
 			<string>cerebrovascular accident</string>
 			<key>snippetType</key>
@@ -356,33 +286,15 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,dnos</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2013-04-24T14:17:31Z</date>
-			<key>label</key>
-			<string>Dementia NOS</string>
-			<key>modificationDate</key>
-			<date>2013-04-24T14:17:46Z</date>
-			<key>plainText</key>
-			<string>Dementia Not Otherwise Specified</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>uuidString</key>
-			<string>58404E05-21E1-4BD9-AAC9-F7D175C04307</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
 			<string>xdm</string>
 			<key>abbreviationMode</key>
 			<integer>2</integer>
 			<key>creationDate</key>
-			<date>2012-07-31T20:39:31Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>Diabetes Mellitus</string>
 			<key>modificationDate</key>
-			<date>2013-11-14T17:47:43Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>Diabetes Mellitus, Type %fillpopup:name=diabetes:default=II:I%</string>
 			<key>snippetType</key>
@@ -396,11 +308,11 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2012-07-30T18:51:13Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string></string>
 			<key>modificationDate</key>
-			<date>2012-07-30T18:51:22Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>hypercholesterolemia</string>
 			<key>snippetType</key>
@@ -414,11 +326,11 @@
 			<key>abbreviationMode</key>
 			<integer>2</integer>
 			<key>creationDate</key>
-			<date>2012-08-29T14:49:55Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>hyperlipidemia</string>
 			<key>modificationDate</key>
-			<date>2014-08-25T14:54:09Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>hyperlipidemia</string>
 			<key>snippetType</key>
@@ -430,13 +342,13 @@
 			<key>abbreviation</key>
 			<string>htn</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>creationDate</key>
-			<date>2012-07-27T14:11:18Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string></string>
 			<key>modificationDate</key>
-			<date>2012-07-27T14:11:25Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>hypertension</string>
 			<key>snippetType</key>
@@ -450,11 +362,11 @@
 			<key>abbreviationMode</key>
 			<integer>2</integer>
 			<key>creationDate</key>
-			<date>2012-07-31T20:41:25Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>hyperthyroidism</string>
 			<key>modificationDate</key>
-			<date>2012-07-31T20:42:15Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>hyperthyroidism</string>
 			<key>snippetType</key>
@@ -468,11 +380,11 @@
 			<key>abbreviationMode</key>
 			<integer>2</integer>
 			<key>creationDate</key>
-			<date>2012-07-31T20:41:42Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>hypothyroidism</string>
 			<key>modificationDate</key>
-			<date>2012-07-31T20:41:42Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>hypothyroidism</string>
 			<key>snippetType</key>
@@ -486,13 +398,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2014-08-25T14:38:24Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>Generalized Anxiety Disorder</string>
 			<key>modificationDate</key>
-			<date>2014-08-25T14:40:02Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
-			<string>Generalized Anxiety %snippet:,dis%</string>
+			<string>300.02 (F41.1) Generalized Anxiety %snippet:,dis%</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
@@ -504,11 +416,11 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2014-08-25T14:39:32Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>Disorder</string>
 			<key>modificationDate</key>
-			<date>2014-08-25T14:39:46Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>Disorder</string>
 			<key>snippetType</key>
@@ -522,11 +434,11 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2014-08-27T01:19:14Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>Unspec Neurocog Dis</string>
 			<key>modificationDate</key>
-			<date>2014-10-28T04:06:52Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>799.59 Unspecified Neurocognitive %snippet:,dis%, without behavioral disturbance, %snippet:specsev%</string>
 			<key>snippetType</key>
@@ -540,11 +452,11 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2014-10-28T04:07:16Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>ODD</string>
 			<key>modificationDate</key>
-			<date>2014-10-28T04:07:50Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
 			<string>Oppositional Defiant %snippet:,dis%</string>
 			<key>snippetType</key>
@@ -558,13 +470,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2015-01-06T22:05:16Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
 			<string>ADHD Diagnostic Codes</string>
 			<key>modificationDate</key>
-			<date>2015-01-06T22:08:10Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
-			<string>%fillpopup:name=code:314.01 (F 90.2) Attention Deficit/Hyperactivity Disorder, Combined presentation:314.00 (F 90.0) Attention Deficit/Hyperactivity Disorder, Predominately inattentive presentation:314.01 (F 90.1) Attention Deficit/Hyperactivity Disorder, Predominately hyperactive/impulsive presentation%%fillpopup:name=severity:, Mild:, Moderate:, Severe%%fillpart:name=remission%, In partial remission%fillpartend% </string>
+			<string>%fillpopup:name=code:314.01 (F90.2) Attention Deficit/Hyperactivity Disorder, Combined:default=314.00 (F90.0) Attention Deficit/Hyperactivity Disorder, Predominately Inattentive:314.01 (F90.1) Attention Deficit/Hyperactivity Disorder, Predominately Hyperactive/Impulsive:314.01 (F90.8) Attention Deficit/Hyperactivity Disorder, other:314.01 (F90.9) Attention Deficit/Hyperactivity Disorder, unspecified%  presentation%fillpopup:name=severity:, Mild:, Moderate:, Severe%%fillpart:name=remission%, In partial remission%fillpartend%</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
@@ -572,21 +484,113 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>;ocd</string>
+			<string>sxs</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>creationDate</key>
-			<date>2015-03-31T07:12:54Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>label</key>
-			<string>OCD</string>
+			<string>Symptoms (word)</string>
 			<key>modificationDate</key>
-			<date>2015-03-31T07:13:09Z</date>
+			<date>2017-03-23T01:15:39Z</date>
 			<key>plainText</key>
-			<string>Obsessive-Compulsive Disorder</string>
+			<string>symptoms</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>95222678-6477-48CC-BED4-698508E70BC6</string>
+			<string>44DCD7AD-06E3-4BBF-AA18-92B8321D1B3B</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>pddd</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2017-03-23T01:15:39Z</date>
+			<key>label</key>
+			<string>Dysthymia</string>
+			<key>modificationDate</key>
+			<date>2017-03-23T01:15:39Z</date>
+			<key>plainText</key>
+			<string>%fillpart:name=CPT-ICD:default=yes%300.4 (F34.1) %fillpartend%Persistent Depressive Disorder (Dysthymia)</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>EA1E6362-D1EA-4AE1-B2B8-4F54232DF136</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>icdacd</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2017-03-23T01:15:39Z</date>
+			<key>label</key>
+			<string>Attention concentration deficit</string>
+			<key>modificationDate</key>
+			<date>2017-03-23T01:15:39Z</date>
+			<key>plainText</key>
+			<string>R41.840 Attention and concentration deficit</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>3F460B8E-F411-486C-BCA4-530508C709F8</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>codealz</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2017-03-23T01:15:39Z</date>
+			<key>label</key>
+			<string>Alzheimer’s Coding</string>
+			<key>modificationDate</key>
+			<date>2017-05-04T18:14:20Z</date>
+			<key>plainText</key>
+			<string>%fillpopup:name=alzType:default=G30.0 Alzheimer's Disease with Early Onset:G30.1 Alzheimer's Disease with Late Onset:G30.8 Other Alzheimer's Disease:G30.9 Alzheimer's Disease, Unspecified%
+* %snippet:codedem%</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>11E96363-C94C-41C7-9A22-BF0BEABDF79D</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>codedem</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2017-05-04T18:11:42Z</date>
+			<key>label</key>
+			<string>Dementia coding</string>
+			<key>modificationDate</key>
+			<date>2017-05-04T18:16:29Z</date>
+			<key>plainText</key>
+			<string>%fillpopup:name=behavioralDisturbance:default=F02.80 (294.10) Dementia without Behavioral Disturbance:F02.81 (294.11) Dementia with Behavioral Disturbance%</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>66EDA1C4-0954-4078-A37F-DAABF633B6A3</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>codeftd</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2017-06-28T19:02:59Z</date>
+			<key>label</key>
+			<string>FTD Coding</string>
+			<key>modificationDate</key>
+			<date>2017-06-28T19:05:41Z</date>
+			<key>plainText</key>
+			<string>G31.09 Other %snippet:ftd%
+* %snippet:codedem%</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>73D36C45-7AC0-4A60-9587-2882C9CBC607</string>
 		</dict>
 	</array>
 </dict>
